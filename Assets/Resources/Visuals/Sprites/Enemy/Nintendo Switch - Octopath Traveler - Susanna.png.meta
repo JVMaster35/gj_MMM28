@@ -1,0 +1,2106 @@
+fileFormatVersion: 2
+guid: 9ab598fcff16ffa468c1ed56898759b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8280258775151548727
+    second: Nintendo Switch - Octopath Traveler - Susanna_0
+  - first:
+      213: 2477448279552154200
+    second: Nintendo Switch - Octopath Traveler - Susanna_1
+  - first:
+      213: 5505182422303725161
+    second: Nintendo Switch - Octopath Traveler - Susanna_2
+  - first:
+      213: 4900204623332443425
+    second: Nintendo Switch - Octopath Traveler - Susanna_3
+  - first:
+      213: -485722034870969064
+    second: Nintendo Switch - Octopath Traveler - Susanna_4
+  - first:
+      213: -8369266792505683396
+    second: Nintendo Switch - Octopath Traveler - Susanna_5
+  - first:
+      213: 5114105796077081686
+    second: Nintendo Switch - Octopath Traveler - Susanna_6
+  - first:
+      213: 2909689110250189709
+    second: Nintendo Switch - Octopath Traveler - Susanna_7
+  - first:
+      213: 4909515922891676630
+    second: Nintendo Switch - Octopath Traveler - Susanna_8
+  - first:
+      213: -190607949621306735
+    second: Nintendo Switch - Octopath Traveler - Susanna_9
+  - first:
+      213: 3337683659199001951
+    second: Nintendo Switch - Octopath Traveler - Susanna_10
+  - first:
+      213: -8652351266627714001
+    second: Nintendo Switch - Octopath Traveler - Susanna_11
+  - first:
+      213: -1156375229393357394
+    second: Nintendo Switch - Octopath Traveler - Susanna_12
+  - first:
+      213: -1243728086959614070
+    second: Nintendo Switch - Octopath Traveler - Susanna_13
+  - first:
+      213: -6169504925626183227
+    second: Nintendo Switch - Octopath Traveler - Susanna_14
+  - first:
+      213: 9161428676598482799
+    second: Nintendo Switch - Octopath Traveler - Susanna_15
+  - first:
+      213: -6112430948896216432
+    second: Nintendo Switch - Octopath Traveler - Susanna_16
+  - first:
+      213: -6238703652792843919
+    second: Nintendo Switch - Octopath Traveler - Susanna_17
+  - first:
+      213: -5776377573763024364
+    second: Nintendo Switch - Octopath Traveler - Susanna_18
+  - first:
+      213: 6255321597291639450
+    second: Nintendo Switch - Octopath Traveler - Susanna_19
+  - first:
+      213: 2322546787127044711
+    second: Nintendo Switch - Octopath Traveler - Susanna_20
+  - first:
+      213: 4161423231605005867
+    second: Nintendo Switch - Octopath Traveler - Susanna_21
+  - first:
+      213: -1973374046993330251
+    second: Nintendo Switch - Octopath Traveler - Susanna_22
+  - first:
+      213: -7359099140943532862
+    second: Nintendo Switch - Octopath Traveler - Susanna_23
+  - first:
+      213: -2507530465891345147
+    second: Nintendo Switch - Octopath Traveler - Susanna_24
+  - first:
+      213: 2711991518023838260
+    second: Nintendo Switch - Octopath Traveler - Susanna_25
+  - first:
+      213: -5949884148262293559
+    second: Nintendo Switch - Octopath Traveler - Susanna_26
+  - first:
+      213: -612350050048898448
+    second: Nintendo Switch - Octopath Traveler - Susanna_27
+  - first:
+      213: -4850160730582595276
+    second: Nintendo Switch - Octopath Traveler - Susanna_28
+  - first:
+      213: -8753676603553204154
+    second: Nintendo Switch - Octopath Traveler - Susanna_29
+  - first:
+      213: -5339600953064808535
+    second: Nintendo Switch - Octopath Traveler - Susanna_30
+  - first:
+      213: -884992628580235673
+    second: Nintendo Switch - Octopath Traveler - Susanna_31
+  - first:
+      213: -2890312755447068842
+    second: Nintendo Switch - Octopath Traveler - Susanna_32
+  - first:
+      213: -5067611435836348189
+    second: Nintendo Switch - Octopath Traveler - Susanna_33
+  - first:
+      213: -210637561623179856
+    second: Nintendo Switch - Octopath Traveler - Susanna_34
+  - first:
+      213: 1232707577152444640
+    second: Nintendo Switch - Octopath Traveler - Susanna_35
+  - first:
+      213: -9033460211048498333
+    second: Nintendo Switch - Octopath Traveler - Susanna_36
+  - first:
+      213: 4965054822917899039
+    second: Nintendo Switch - Octopath Traveler - Susanna_37
+  - first:
+      213: 9181874233013923773
+    second: Nintendo Switch - Octopath Traveler - Susanna_38
+  - first:
+      213: -2212098765140570971
+    second: Nintendo Switch - Octopath Traveler - Susanna_39
+  - first:
+      213: 1143970196616531300
+    second: Nintendo Switch - Octopath Traveler - Susanna_40
+  - first:
+      213: 4684744233209855866
+    second: Nintendo Switch - Octopath Traveler - Susanna_41
+  - first:
+      213: 9094571994122348177
+    second: Nintendo Switch - Octopath Traveler - Susanna_42
+  - first:
+      213: -4359005509927701445
+    second: Nintendo Switch - Octopath Traveler - Susanna_43
+  - first:
+      213: -8324666383844699619
+    second: Nintendo Switch - Octopath Traveler - Susanna_44
+  - first:
+      213: -7423693646533423426
+    second: Nintendo Switch - Octopath Traveler - Susanna_45
+  - first:
+      213: -3246856601474049462
+    second: Nintendo Switch - Octopath Traveler - Susanna_46
+  - first:
+      213: 5119260854644809897
+    second: Nintendo Switch - Octopath Traveler - Susanna_47
+  - first:
+      213: 1626604934103622851
+    second: Nintendo Switch - Octopath Traveler - Susanna_48
+  - first:
+      213: 6878642026258474181
+    second: Nintendo Switch - Octopath Traveler - Susanna_49
+  - first:
+      213: 3980642554490233686
+    second: Nintendo Switch - Octopath Traveler - Susanna_50
+  - first:
+      213: 8896580683194171277
+    second: Nintendo Switch - Octopath Traveler - Susanna_51
+  - first:
+      213: 8351034666492938138
+    second: Nintendo Switch - Octopath Traveler - Susanna_52
+  - first:
+      213: 5630288305452554696
+    second: Nintendo Switch - Octopath Traveler - Susanna_53
+  - first:
+      213: 2818332593012062496
+    second: Nintendo Switch - Octopath Traveler - Susanna_54
+  - first:
+      213: 2633355526417034678
+    second: Nintendo Switch - Octopath Traveler - Susanna_55
+  - first:
+      213: 7844945227072865090
+    second: Nintendo Switch - Octopath Traveler - Susanna_56
+  - first:
+      213: 455153655565433782
+    second: Nintendo Switch - Octopath Traveler - Susanna_57
+  - first:
+      213: 611876845622189381
+    second: Nintendo Switch - Octopath Traveler - Susanna_58
+  - first:
+      213: -3134960283603351805
+    second: Nintendo Switch - Octopath Traveler - Susanna_59
+  - first:
+      213: -8059253094660393627
+    second: Nintendo Switch - Octopath Traveler - Susanna_60
+  - first:
+      213: 1527841890133318292
+    second: Nintendo Switch - Octopath Traveler - Susanna_61
+  - first:
+      213: 2620751207930073489
+    second: Nintendo Switch - Octopath Traveler - Susanna_62
+  - first:
+      213: 1130800289823682039
+    second: Nintendo Switch - Octopath Traveler - Susanna_63
+  - first:
+      213: -6880790140595897909
+    second: Nintendo Switch - Octopath Traveler - Susanna_64
+  - first:
+      213: 1975048919920190874
+    second: Nintendo Switch - Octopath Traveler - Susanna_65
+  - first:
+      213: 4600580925317582472
+    second: Nintendo Switch - Octopath Traveler - Susanna_66
+  - first:
+      213: -7755351181035992706
+    second: Nintendo Switch - Octopath Traveler - Susanna_67
+  - first:
+      213: -6638347817085414830
+    second: Nintendo Switch - Octopath Traveler - Susanna_68
+  - first:
+      213: 8961114306581156583
+    second: Nintendo Switch - Octopath Traveler - Susanna_69
+  - first:
+      213: 4596029430011007463
+    second: Nintendo Switch - Octopath Traveler - Susanna_70
+  - first:
+      213: -8860909112249756935
+    second: Nintendo Switch - Octopath Traveler - Susanna_71
+  - first:
+      213: 7128428364456373523
+    second: Nintendo Switch - Octopath Traveler - Susanna_72
+  - first:
+      213: -5281803592170291218
+    second: Nintendo Switch - Octopath Traveler - Susanna_73
+  - first:
+      213: 7055114109717147080
+    second: Nintendo Switch - Octopath Traveler - Susanna_74
+  - first:
+      213: 4769627562048221066
+    second: Nintendo Switch - Octopath Traveler - Susanna_75
+  - first:
+      213: -2989562123457163733
+    second: Nintendo Switch - Octopath Traveler - Susanna_76
+  - first:
+      213: -6619311237991701182
+    second: Nintendo Switch - Octopath Traveler - Susanna_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739183d3c7369e270800000000000000
+      internalID: 8280258775151548727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 97
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85adb1c851aa16220800000000000000
+      internalID: 2477448279552154200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 97
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9665321de36566c40800000000000000
+      internalID: 5505182422303725161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 97
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125057c7426010440800000000000000
+      internalID: 4900204623332443425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 96
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d9febf16e5249f0800000000000000
+      internalID: -485722034870969064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 96
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32d93ac1346adb80800000000000000
+      internalID: -8369266792505683396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_6
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 96
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654d0f63024f8f640800000000000000
+      internalID: 5114105796077081686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 96
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83f84f54da416820800000000000000
+      internalID: 2909689110250189709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_8
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 96
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db151b58ba122440800000000000000
+      internalID: 4909515922891676630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_9
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 96
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ad4776413da5df0800000000000000
+      internalID: -190607949621306735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_10
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 96
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55be2faa95d15e20800000000000000
+      internalID: 3337683659199001951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 96
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2401c87d5cace780800000000000000
+      internalID: -8652351266627714001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_12
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 96
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5b2f80bdab3ffe0800000000000000
+      internalID: -1156375229393357394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_13
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 96
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87989bf4e36dbee0800000000000000
+      internalID: -1243728086959614070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_14
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 96
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1570425f3816aa0800000000000000
+      internalID: -6169504925626183227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_15
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 96
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67cabf87dee32f70800000000000000
+      internalID: 9161428676598482799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_16
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 96
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09aefe0ef684c2ba0800000000000000
+      internalID: -6112430948896216432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_17
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 96
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171c954f41cab69a0800000000000000
+      internalID: -6238703652792843919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_18
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 96
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a7253833f26dfa0800000000000000
+      internalID: -5776377573763024364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_19
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 96
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92b562c9dd5fc650800000000000000
+      internalID: 6255321597291639450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_20
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 96
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76aaeec5ff75b3020800000000000000
+      internalID: 2322546787127044711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2edfd7816850c930800000000000000
+      internalID: 4161423231605005867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_22
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 65
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfccf772ca2d94e0800000000000000
+      internalID: -1973374046993330251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_23
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 65
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccad2d425a3fd990800000000000000
+      internalID: -7359099140943532862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d9315a356733dd0800000000000000
+      internalID: -2507530465891345147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 64
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43aeea9baede2a520800000000000000
+      internalID: 2711991518023838260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_26
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 64
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf291814e3cd6da0800000000000000
+      internalID: -5949884148262293559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_27
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 64
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a84a4bfde7087f0800000000000000
+      internalID: -612350050048898448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_28
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43943164384c0bcb0800000000000000
+      internalID: -4850160730582595276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_29
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 64
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648309e0281b48680800000000000000
+      internalID: -8753676603553204154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_30
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 64
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af1c3e393de5e5b0800000000000000
+      internalID: -5339600953064808535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_31
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 64
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766c2a8a4efd7b3f0800000000000000
+      internalID: -884992628580235673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_32
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 64
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6570cc9ccdb83e7d0800000000000000
+      internalID: -2890312755447068842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_33
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 64
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8644b9f3a3ca9b0800000000000000
+      internalID: -5067611435836348189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_34
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 64
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd8813f04aa31df0800000000000000
+      internalID: -210637561623179856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_35
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 64
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e89a10a2057b1110800000000000000
+      internalID: 1232707577152444640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_36
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b34d3acc3b2a280800000000000000
+      internalID: -9033460211048498333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_37
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 64
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f138c523e0b67e440800000000000000
+      internalID: 4965054822917899039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_38
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 64
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf6b1f97f19c6f70800000000000000
+      internalID: 9181874233013923773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_39
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 64
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac47bfa4eb0d41e0800000000000000
+      internalID: -2212098765140570971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_40
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 64
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d46f235d230ef00800000000000000
+      internalID: 1143970196616531300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_41
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 64
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f780c2f0e830140800000000000000
+      internalID: 4684744233209855866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196e0e52b09663e70800000000000000
+      internalID: 9094571994122348177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34f9ce6593b183c0800000000000000
+      internalID: -4359005509927701445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_44
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d121d45a708d87c80800000000000000
+      internalID: -8324666383844699619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_45
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 32
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe0d0df5fdb9f890800000000000000
+      internalID: -7423693646533423426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_46
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ad180af19d0f2d0800000000000000
+      internalID: -3246856601474049462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_47
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0aaa1df944b0740800000000000000
+      internalID: 5119260854644809897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_48
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4e427c19cd29610800000000000000
+      internalID: 1626604934103622851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_49
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 32
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4a5307a78d57f50800000000000000
+      internalID: 6878642026258474181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_50
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653a13e10551e3730800000000000000
+      internalID: 3980642554490233686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_51
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 32
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ff369cef0077b70800000000000000
+      internalID: 8896580683194171277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_52
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97c84398c5d4e370800000000000000
+      internalID: 8351034666492938138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_53
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 32
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9198d126dc22e40800000000000000
+      internalID: 5630288305452554696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029b369af8abc1720800000000000000
+      internalID: 2818332593012062496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_55
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 32
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd266f26ee8b8420800000000000000
+      internalID: 2633355526417034678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_56
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2430316ae18dedc60800000000000000
+      internalID: 7844945227072865090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_57
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 32
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbb23696d7015600800000000000000
+      internalID: 455153655565433782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_58
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54dd89dcfb2dd7800800000000000000
+      internalID: 611876845622189381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_59
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 32
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3074dd65b326e74d0800000000000000
+      internalID: -3134960283603351805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_60
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565bcc99208c72090800000000000000
+      internalID: -8059253094660393627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_61
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 32
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a9b5eaa1cf33510800000000000000
+      internalID: 1527841890133318292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_62
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19119599657ce5420800000000000000
+      internalID: 2620751207930073489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_63
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 32
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd69d25fd861bf00800000000000000
+      internalID: 1130800289823682039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_64
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 32
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc975c7b2d58280a0800000000000000
+      internalID: -6880790140595897909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_65
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95acd54788c86b10800000000000000
+      internalID: 1975048919920190874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_66
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 32
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e0ef50afb88df30800000000000000
+      internalID: 4600580925317582472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_67
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7981f1c0357f5490800000000000000
+      internalID: -7755351181035992706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_68
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 32
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2525223f4d9dfd3a0800000000000000
+      internalID: -6638347817085414830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_69
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 0
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2d07bdbf54c5c70800000000000000
+      internalID: 8961114306581156583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_70
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e11c017a6068cf30800000000000000
+      internalID: 4596029430011007463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_71
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 32
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2d4590c1ab70580800000000000000
+      internalID: -8860909112249756935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_72
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 0
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dad3654d34de260800000000000000
+      internalID: 7128428364456373523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_73
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 32
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefbe4bfd9343b6b0800000000000000
+      internalID: -5281803592170291218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_74
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 32
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd698737ecc8e160800000000000000
+      internalID: 7055114109717147080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_75
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 32
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8febc24ffe113240800000000000000
+      internalID: 4769627562048221066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_76
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 32
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e8f5d8611f286d0800000000000000
+      internalID: -2989562123457163733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Susanna_77
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 32
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245e0c9ef7b7324a0800000000000000
+      internalID: -6619311237991701182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

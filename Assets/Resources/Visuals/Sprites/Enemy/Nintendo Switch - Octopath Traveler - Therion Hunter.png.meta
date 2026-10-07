@@ -1,0 +1,2381 @@
+fileFormatVersion: 2
+guid: d1f6cef75fe5cc74c8ef66965137bea5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 14487429705686119
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_0
+  - first:
+      213: -4254282371880008391
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_1
+  - first:
+      213: 1804553755793630606
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_2
+  - first:
+      213: 2078162026092795661
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_3
+  - first:
+      213: -4862485256381647078
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_4
+  - first:
+      213: 5773471908142221850
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_5
+  - first:
+      213: 5875825856752459999
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_6
+  - first:
+      213: -6503202421454307696
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_7
+  - first:
+      213: 6812754579798498346
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_8
+  - first:
+      213: -2670745831813937083
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_9
+  - first:
+      213: 3622560779296544847
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_10
+  - first:
+      213: -7636439058953763597
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_11
+  - first:
+      213: -1362736912776381937
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_12
+  - first:
+      213: -4654771129032938022
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_13
+  - first:
+      213: 8554089847685843810
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_14
+  - first:
+      213: -6797625079828636895
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_15
+  - first:
+      213: 1860965104509075968
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_16
+  - first:
+      213: -4518680159378758596
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_17
+  - first:
+      213: -2165807021482076543
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_18
+  - first:
+      213: 5753245444467819974
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_19
+  - first:
+      213: -673864575367465832
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_20
+  - first:
+      213: 4427590426868727009
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_21
+  - first:
+      213: -7555907049968727985
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_22
+  - first:
+      213: -6476277925946091935
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_23
+  - first:
+      213: -1975546036558426718
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_24
+  - first:
+      213: -3122541282188689197
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_25
+  - first:
+      213: -6575535942140257625
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_26
+  - first:
+      213: -7085296286857328918
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_27
+  - first:
+      213: -7571345169673809868
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_28
+  - first:
+      213: -1372764281094655541
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_29
+  - first:
+      213: -2429259793534137667
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_30
+  - first:
+      213: 8228769803416491499
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_31
+  - first:
+      213: -8387276995488081378
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_32
+  - first:
+      213: -5368554916692984129
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_33
+  - first:
+      213: -801128174709162367
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_34
+  - first:
+      213: -328146079916242032
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_35
+  - first:
+      213: 6954980403758992429
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_36
+  - first:
+      213: 7946918817190728028
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_37
+  - first:
+      213: 6969678404447785847
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_38
+  - first:
+      213: -1493707369666701278
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_39
+  - first:
+      213: -3952556036606747410
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_40
+  - first:
+      213: 8358630205791728737
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_41
+  - first:
+      213: -6159033964870183581
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_42
+  - first:
+      213: 2535218094097622238
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_43
+  - first:
+      213: 1037857011817584657
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_44
+  - first:
+      213: 1556409244448503420
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_45
+  - first:
+      213: -7530713687913993584
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_46
+  - first:
+      213: 1349289196994157152
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_47
+  - first:
+      213: 1768427432572881689
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_48
+  - first:
+      213: 4511736155107336846
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_49
+  - first:
+      213: -6520353138185379405
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_50
+  - first:
+      213: -3708638247295029654
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_51
+  - first:
+      213: -3303317708240194298
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_52
+  - first:
+      213: -7901261873545410872
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_53
+  - first:
+      213: -3149999963490674973
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_54
+  - first:
+      213: -6250318018275938023
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_55
+  - first:
+      213: 8692619396464425149
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_56
+  - first:
+      213: 3598856090471196260
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_57
+  - first:
+      213: -5063570639977362018
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_58
+  - first:
+      213: -7674098321187252468
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_59
+  - first:
+      213: 7673143897424271619
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_60
+  - first:
+      213: 1184875044702976502
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_61
+  - first:
+      213: 4374509636033048919
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_62
+  - first:
+      213: 9132016223291790154
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_63
+  - first:
+      213: 3699766473085945191
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_64
+  - first:
+      213: -6283188467924587755
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_65
+  - first:
+      213: -2961750746457750331
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_66
+  - first:
+      213: -1393517207783116568
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_67
+  - first:
+      213: 6538396595246500732
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_68
+  - first:
+      213: 8176321137694559192
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_69
+  - first:
+      213: 6375390617802337034
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_70
+  - first:
+      213: 6574341859214380955
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_71
+  - first:
+      213: 2876603389104209304
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_72
+  - first:
+      213: 8750075859321740742
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_73
+  - first:
+      213: 6862819435063262369
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_74
+  - first:
+      213: -8089452806542483506
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_75
+  - first:
+      213: 7310508678827261914
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_76
+  - first:
+      213: 520636366503748302
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_77
+  - first:
+      213: -5196537977250842848
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_78
+  - first:
+      213: -451699342558486111
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_79
+  - first:
+      213: -8838097683677824422
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_80
+  - first:
+      213: 6761419440309704780
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_81
+  - first:
+      213: 8528017011814935044
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_82
+  - first:
+      213: 2578007168920610560
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_83
+  - first:
+      213: -8793099483314189404
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_84
+  - first:
+      213: -1984277689368883267
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_85
+  - first:
+      213: 7993363615459671949
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_86
+  - first:
+      213: -8220931778792666810
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_87
+  - first:
+      213: 1071121981349730846
+    second: Nintendo Switch - Octopath Traveler - Therion Hunter_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cd0559d38733000800000000000000
+      internalID: 14487429705686119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 159
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935c2e119b0c5f4c0800000000000000
+      internalID: -4254282371880008391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 156
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e852d2874101b0910800000000000000
+      internalID: 1804553755793630606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 157
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0797f62a5d17dc10800000000000000
+      internalID: 2078162026092795661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 153
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a173ccffb6bf48cb0800000000000000
+      internalID: -4862485256381647078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 152
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a838d7c1e7f1050800000000000000
+      internalID: 5773471908142221850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 154
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd029c93c702b8150800000000000000
+      internalID: 5875825856752459999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 156
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e71c66adbffb5a0800000000000000
+      internalID: -6503202421454307696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_8
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 156
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c1eced134cb8e50800000000000000
+      internalID: 6812754579798498346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_9
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 157
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5480061f0da9fead0800000000000000
+      internalID: -2670745831813937083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_10
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 157
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f489b3be5dbe54230800000000000000
+      internalID: 3622560779296544847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_11
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 157
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4842ea22be50690800000000000000
+      internalID: -7636439058953763597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_12
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 156
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ab6a77ff5961de0800000000000000
+      internalID: -1362736912776381937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_13
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 154
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add6f37f15ee66fb0800000000000000
+      internalID: -4654771129032938022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_14
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 155
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b071c156b36b670800000000000000
+      internalID: 8554089847685843810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_15
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 160
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b1788510cf9a1a0800000000000000
+      internalID: -6797625079828636895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 152
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00249a917e973d910800000000000000
+      internalID: 1860965104509075968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_17
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 161
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34af96065c6a41c0800000000000000
+      internalID: -4518680159378758596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_18
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 161
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18693882df181f1e0800000000000000
+      internalID: -2165807021482076543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_19
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 161
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5832fef32a7df40800000000000000
+      internalID: 5753245444467819974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894b08e2db3f5a6f0800000000000000
+      internalID: -673864575367465832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_21
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 113
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec3e6ce806f17d30800000000000000
+      internalID: 4427590426868727009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_22
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 121
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f488eba2296042790800000000000000
+      internalID: -7555907049968727985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_23
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 122
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16697450a83af16a0800000000000000
+      internalID: -6476277925946091935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_24
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 122
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad018db8537594e0800000000000000
+      internalID: -1975546036558426718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_25
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 122
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d086ae6f318aa4d0800000000000000
+      internalID: -3122541282188689197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_26
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 121
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa9ae836e00fb4a0800000000000000
+      internalID: -6575535942140257625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_27
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 119
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6897d0198fbad90800000000000000
+      internalID: -7085296286857328918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_28
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 117
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43019b1dead2de690800000000000000
+      internalID: -7571345169673809868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_29
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 118
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc13209d826f2fce0800000000000000
+      internalID: -1372764281094655541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_30
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 119
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba424ba619894ed0800000000000000
+      internalID: -2429259793534137667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_31
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 119
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5d91fc986723270800000000000000
+      internalID: 8228769803416491499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 119
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a9023a2086a9b80800000000000000
+      internalID: -8387276995488081378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_33
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 119
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe76514fbf0f75b0800000000000000
+      internalID: -5368554916692984129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_34
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 118
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e37ee6b22d1e4f0800000000000000
+      internalID: -801128174709162367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_35
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 117
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bc72001e0327bf0800000000000000
+      internalID: -328146079916242032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c8bd104dd058060800000000000000
+      internalID: 6954980403758992429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_37
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 80
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5155854f80294e60800000000000000
+      internalID: 7946918817190728028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_38
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 80
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77352d7f49549b060800000000000000
+      internalID: 6969678404447785847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_39
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 79
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22812a0bf09454be0800000000000000
+      internalID: -1493707369666701278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_40
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 80
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec9a3be933b529c0800000000000000
+      internalID: -3952556036606747410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_41
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 70
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164f011e2e1dff370800000000000000
+      internalID: 8358630205791728737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_42
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 82
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365d85cad37b68aa0800000000000000
+      internalID: -6159033964870183581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_43
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 83
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4e4d6ac67ee2320800000000000000
+      internalID: 2535218094097622238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_44
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 83
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11819051475376e00800000000000000
+      internalID: 1037857011817584657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_45
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 83
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76bc7c26f9799510800000000000000
+      internalID: 1556409244448503420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_46
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 82
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ae6bedcc78d7790800000000000000
+      internalID: -7530713687913993584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_47
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 80
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06adb163063a9b210800000000000000
+      internalID: 1349289196994157152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_48
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 81
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b00916167ba8810800000000000000
+      internalID: 1768427432572881689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_49
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 78
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82a57df028ec9e30800000000000000
+      internalID: 4511736155107336846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_50
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 78
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b16b5cfd5d0385a0800000000000000
+      internalID: -6520353138185379405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_51
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 78
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e6d8dc925488cc0800000000000000
+      internalID: -3708638247295029654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605f51ccb024822d0800000000000000
+      internalID: -3303317708240194298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_53
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 36
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c60dfd4034195290800000000000000
+      internalID: -7901261873545410872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_54
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 36
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e615adf8b3f844d0800000000000000
+      internalID: -3149999963490674973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_55
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 35
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9117073c0e86249a0800000000000000
+      internalID: -6250318018275938023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_56
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 35
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8beed194362a870800000000000000
+      internalID: 8692619396464425149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_57
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 56
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4666946fb84b1f130800000000000000
+      internalID: 3598856090471196260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_58
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 37
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d4d05b4559ab9b0800000000000000
+      internalID: -5063570639977362018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 37
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07563a6c30208590800000000000000
+      internalID: -7674098321187252468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_60
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 37
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3091e6c78bb7c7a60800000000000000
+      internalID: 7673143897424271619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_61
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 37
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9febe4395817010800000000000000
+      internalID: 1184875044702976502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_62
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 35
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751f54a365165bc30800000000000000
+      internalID: 4374509636033048919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_63
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 35
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4359602f507bbe70800000000000000
+      internalID: 9132016223291790154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_64
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 35
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765003c4106385330800000000000000
+      internalID: 3699766473085945191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_65
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 35
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b2680d061adc8a0800000000000000
+      internalID: -6283188467924587755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_66
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 35
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4432c536fb5e6d0800000000000000
+      internalID: -2961750746457750331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_67
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 35
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e071b19b7b39ace0800000000000000
+      internalID: -1393517207783116568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_68
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 35
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b8a4cbf0d0dba50800000000000000
+      internalID: 6538396595246500732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_69
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 35
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db4dc531c0287170800000000000000
+      internalID: 8176321137694559192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_70
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 35
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b67761dffe97850800000000000000
+      internalID: 6375390617802337034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_71
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 35
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f447ea611cc3b50800000000000000
+      internalID: 6574341859214380955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_72
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 35
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89dbd3f9a8fbbe720800000000000000
+      internalID: 2876603389104209304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_73
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 36
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdd79852a38e6970800000000000000
+      internalID: 8750075859321740742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acb7985ae1ad3f50800000000000000
+      internalID: 6862819435063262369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_75
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf9fbe388d7cbf80800000000000000
+      internalID: -8089452806542483506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_76
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 18
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfb8e029e4247560800000000000000
+      internalID: 7310508678827261914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_77
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec22b92540ca93700800000000000000
+      internalID: 520636366503748302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_78
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027f22cfd3032e7b0800000000000000
+      internalID: -5196537977250842848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_79
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1268557dd3bb9f0800000000000000
+      internalID: -451699342558486111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_80
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a3e22abf4c85580800000000000000
+      internalID: -8838097683677824422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_81
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48941d482365dd50800000000000000
+      internalID: 6761419440309704780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_82
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40aa7b3f94a995670800000000000000
+      internalID: 8528017011814935044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_83
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0076ceb7cdbe6c320800000000000000
+      internalID: 2578007168920610560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_84
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab03669b92a8f580800000000000000
+      internalID: -8793099483314189404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_85
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf4f6564fd6674e0800000000000000
+      internalID: -1984277689368883267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_86
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f710c8bd12eee60800000000000000
+      internalID: 7993363615459671949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_87
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649c7528a1269ed80800000000000000
+      internalID: -8220931778792666810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Therion Hunter_88
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a967954c36dde00800000000000000
+      internalID: 1071121981349730846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

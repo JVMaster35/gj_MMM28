@@ -1,0 +1,1956 @@
+fileFormatVersion: 2
+guid: 44c1638b966c2bb4ea6390b0d90aeadf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4459033127286839023
+    second: Female Lollipop Right_0
+  - first:
+      213: -7109209469613557151
+    second: Female Lollipop Right_1
+  - first:
+      213: -3833384524225468422
+    second: Female Lollipop Right_2
+  - first:
+      213: -5591039553756012544
+    second: Female Lollipop Right_3
+  - first:
+      213: -4970981967012707635
+    second: Female Lollipop Right_4
+  - first:
+      213: 6041092688426280596
+    second: Female Lollipop Right_5
+  - first:
+      213: 3405738185134035270
+    second: Female Lollipop Right_6
+  - first:
+      213: -7406007547381855136
+    second: Female Lollipop Right_7
+  - first:
+      213: 7877468796771777414
+    second: Female Lollipop Right_8
+  - first:
+      213: -7682756705122934893
+    second: Female Lollipop Right_9
+  - first:
+      213: 5150876645165369482
+    second: Female Lollipop Right_10
+  - first:
+      213: -1813863965696322186
+    second: Female Lollipop Right_11
+  - first:
+      213: 9202359616833914837
+    second: Female Lollipop Right_12
+  - first:
+      213: -8800097560927894263
+    second: Female Lollipop Right_13
+  - first:
+      213: -8889703238928795078
+    second: Female Lollipop Right_14
+  - first:
+      213: 749383787233305642
+    second: Female Lollipop Right_15
+  - first:
+      213: -3742257685381957220
+    second: Female Lollipop Right_16
+  - first:
+      213: -3278749109971898617
+    second: Female Lollipop Right_17
+  - first:
+      213: 5029882655237225469
+    second: Female Lollipop Right_18
+  - first:
+      213: -3910334312278541708
+    second: Female Lollipop Right_19
+  - first:
+      213: 777098327569637189
+    second: Female Lollipop Right_20
+  - first:
+      213: -848161818421205588
+    second: Female Lollipop Right_21
+  - first:
+      213: 7107222907177124770
+    second: Female Lollipop Right_22
+  - first:
+      213: 855377764271913455
+    second: Female Lollipop Right_23
+  - first:
+      213: 6677306694605115250
+    second: Female Lollipop Right_24
+  - first:
+      213: 8578944038942642424
+    second: Female Lollipop Right_25
+  - first:
+      213: 3540465532627020534
+    second: Female Lollipop Right_26
+  - first:
+      213: -9172212391024986501
+    second: Female Lollipop Right_27
+  - first:
+      213: -989680297946855494
+    second: Female Lollipop Right_28
+  - first:
+      213: 8792820997743280650
+    second: Female Lollipop Right_29
+  - first:
+      213: 5636788021993292623
+    second: Female Lollipop Right_30
+  - first:
+      213: 802686367211271038
+    second: Female Lollipop Right_31
+  - first:
+      213: 6444974226887505068
+    second: Female Lollipop Right_32
+  - first:
+      213: -8056298577352931068
+    second: Female Lollipop Right_33
+  - first:
+      213: 7472076048965816929
+    second: Female Lollipop Right_34
+  - first:
+      213: 879199038363007210
+    second: Female Lollipop Right_35
+  - first:
+      213: 6855853944403984423
+    second: Female Lollipop Right_36
+  - first:
+      213: 8565572000702060563
+    second: Female Lollipop Right_37
+  - first:
+      213: -3641191180297624792
+    second: Female Lollipop Right_38
+  - first:
+      213: -3380792744346029801
+    second: Female Lollipop Right_39
+  - first:
+      213: -7842596845890682491
+    second: Female Lollipop Right_40
+  - first:
+      213: -2943264597805035018
+    second: Female Lollipop Right_41
+  - first:
+      213: 7056804722815616154
+    second: Female Lollipop Right_42
+  - first:
+      213: 2927360033844570528
+    second: Female Lollipop Right_43
+  - first:
+      213: 8529309037197817458
+    second: Female Lollipop Right_44
+  - first:
+      213: 2601983003994916878
+    second: Female Lollipop Right_45
+  - first:
+      213: -524062928874292042
+    second: Female Lollipop Right_46
+  - first:
+      213: -6067845863418435874
+    second: Female Lollipop Right_47
+  - first:
+      213: 7389880715909343872
+    second: Female Lollipop Right_48
+  - first:
+      213: 2270555368488143093
+    second: Female Lollipop Right_49
+  - first:
+      213: 4439928814426962863
+    second: Female Lollipop Right_50
+  - first:
+      213: -8752715303434073650
+    second: Female Lollipop Right_51
+  - first:
+      213: 4143311983039549765
+    second: Female Lollipop Right_52
+  - first:
+      213: -1731609826483352856
+    second: Female Lollipop Right_53
+  - first:
+      213: -8344236748712976013
+    second: Female Lollipop Right_54
+  - first:
+      213: 6541239724937284461
+    second: Female Lollipop Right_55
+  - first:
+      213: 5376039418796192476
+    second: Female Lollipop Right_56
+  - first:
+      213: -5376906104114295528
+    second: Female Lollipop Right_57
+  - first:
+      213: -3384119492389145070
+    second: Female Lollipop Right_58
+  - first:
+      213: -173036538474012191
+    second: Female Lollipop Right_59
+  - first:
+      213: 6674826219622183207
+    second: Female Lollipop Right_60
+  - first:
+      213: 6112428588144254087
+    second: Female Lollipop Right_61
+  - first:
+      213: 4162597627195207289
+    second: Female Lollipop Right_62
+  - first:
+      213: 7181804077992853375
+    second: Female Lollipop Right_63
+  - first:
+      213: -8475963843290740816
+    second: Female Lollipop Right_64
+  - first:
+      213: 6313760073707948346
+    second: Female Lollipop Right_65
+  - first:
+      213: -5011073054211864254
+    second: Female Lollipop Right_66
+  - first:
+      213: 8119985258551680305
+    second: Female Lollipop Right_67
+  - first:
+      213: 5232527108094925501
+    second: Female Lollipop Right_68
+  - first:
+      213: -2711374668317691555
+    second: Female Lollipop Right_69
+  - first:
+      213: -2677379378647094362
+    second: Female Lollipop Right_70
+  - first:
+      213: -7043959937451618739
+    second: Female Lollipop Right_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Female Lollipop Right_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 527
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe691a9110ba1ed30800000000000000
+      internalID: 4459033127286839023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 527
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a37d157a3075d90800000000000000
+      internalID: -7109209469613557151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 527
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7af0ad5151dcac0800000000000000
+      internalID: -3833384524225468422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 527
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000e6310623a862b0800000000000000
+      internalID: -5591039553756012544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 527
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2c5570d36830bb0800000000000000
+      internalID: -4970981967012707635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 527
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496abd40bc546d350800000000000000
+      internalID: 6041092688426280596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 527
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641d5e2c5dc934f20800000000000000
+      internalID: 3405738185134035270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_7
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 527
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c4176df53983990800000000000000
+      internalID: -7406007547381855136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 463
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b3ec05224625d60800000000000000
+      internalID: 7877468796771777414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_9
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 463
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f956f4b7d516590800000000000000
+      internalID: -7682756705122934893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 463
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8800fca4079b7740800000000000000
+      internalID: 5150876645165369482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 463
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6751acd555cd3d6e0800000000000000
+      internalID: -1813863965696322186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 463
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d709c8b05955bf70800000000000000
+      internalID: 9202359616833914837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 463
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9058c1ca4e5cfd580800000000000000
+      internalID: -8800097560927894263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 463
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a720df00e61a480800000000000000
+      internalID: -8889703238928795078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_15
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 463
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a246a768598566a00800000000000000
+      internalID: 749383787233305642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_16
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 399
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9935d46674d01cc0800000000000000
+      internalID: -3742257685381957220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 399
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f2f785e0b8f72d0800000000000000
+      internalID: -3278749109971898617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 399
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb305f10abbdc540800000000000000
+      internalID: 5029882655237225469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 399
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47abd9b29a3bbb9c0800000000000000
+      internalID: -3910334312278541708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_20
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 399
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f965acfcec8ca00800000000000000
+      internalID: 777098327569637189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_21
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 399
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca564f4e159ba34f0800000000000000
+      internalID: -848161818421205588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_22
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 399
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3cfc1149de1a260800000000000000
+      internalID: 7107222907177124770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_23
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 399
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9f13c6b89eedb00800000000000000
+      internalID: 855377764271913455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_24
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 335
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f86449f0f8aac50800000000000000
+      internalID: 6677306694605115250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 335
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0912576288e0770800000000000000
+      internalID: 8578944038942642424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_26
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 335
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa6fbbc4a2422130800000000000000
+      internalID: 3540465532627020534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_27
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 335
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76f4844d61c5b080800000000000000
+      internalID: -9172212391024986501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_28
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 335
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7cca73303f342f0800000000000000
+      internalID: -989680297946855494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_29
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 335
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0285107c10660a70800000000000000
+      internalID: 8792820997743280650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_30
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 335
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43461d47d4e93e40800000000000000
+      internalID: 5636788021993292623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_31
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 335
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e733da78ff6b32b00800000000000000
+      internalID: 802686367211271038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 271
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca47d2499e5217950800000000000000
+      internalID: 6444974226887505068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_33
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 271
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409c464c027423090800000000000000
+      internalID: -8056298577352931068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_34
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 271
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162df49e39522b760800000000000000
+      internalID: 7472076048965816929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_35
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 271
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8fd700eda833c00800000000000000
+      internalID: 879199038363007210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_36
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 271
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720092ca6d2e42f50800000000000000
+      internalID: 6855853944403984423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_37
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 271
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318d0ef2a560fd670800000000000000
+      internalID: 8565572000702060563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_38
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 271
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8232313d9e3e77dc0800000000000000
+      internalID: -3641191180297624792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_39
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 271
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711790649e20511d0800000000000000
+      internalID: -3380792744346029801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_40
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 207
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581461478bf792390800000000000000
+      internalID: -7842596845890682491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_41
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 207
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f119df317c6727d0800000000000000
+      internalID: -2943264597805035018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_42
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 207
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9449b0c18ecee160800000000000000
+      internalID: 7056804722815616154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_43
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 207
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a92bf2e07210a820800000000000000
+      internalID: 2927360033844570528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_44
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 207
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27674bd01613e5670800000000000000
+      internalID: 8529309037197817458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_45
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 207
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0888b891c91c1420800000000000000
+      internalID: 2601983003994916878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_46
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 207
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc3f74fa872ab8f0800000000000000
+      internalID: -524062928874292042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_47
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 207
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6ee17065eaacba0800000000000000
+      internalID: -6067845863418435874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_48
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 143
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a294c9b512e8660800000000000000
+      internalID: 7389880715909343872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_49
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 143
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f88795e312a28f10800000000000000
+      internalID: 2270555368488143093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_50
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 143
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabb0f3abbbcd9d30800000000000000
+      internalID: 4439928814426962863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_51
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 143
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9cfae2ecb188680800000000000000
+      internalID: -8752715303434073650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_52
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 143
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54111bedb40008930800000000000000
+      internalID: 4143311983039549765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_53
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 143
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea42ea890618f7e0800000000000000
+      internalID: -1731609826483352856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_54
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 143
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371e33ff2e0533c80800000000000000
+      internalID: -8344236748712976013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_55
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 143
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b8f837fd627ca50800000000000000
+      internalID: 6541239724937284461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_56
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 79
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd238df2e578b9a40800000000000000
+      internalID: 5376039418796192476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_57
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 79
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d43a9e2646165b0800000000000000
+      internalID: -5376906104114295528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_58
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 79
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2167ba260413901d0800000000000000
+      internalID: -3384119492389145070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_59
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 79
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1e71f5f20499df0800000000000000
+      internalID: -173036538474012191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_60
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 79
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7213b0ef41fb1ac50800000000000000
+      internalID: 6674826219622183207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_61
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 79
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cd7477a65b3d450800000000000000
+      internalID: 6112428588144254087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_62
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 79
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97eaadfcc7484c930800000000000000
+      internalID: 4162597627195207289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_63
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 79
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f373312c4eaa360800000000000000
+      internalID: 7181804077992853375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_64
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 15
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7c997cac35f5a80800000000000000
+      internalID: -8475963843290740816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_65
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 15
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a390866d55bfe9750800000000000000
+      internalID: 6313760073707948346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_66
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 15
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2498b246b97157ab0800000000000000
+      internalID: -5011073054211864254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_67
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 15
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d9165329bffa070800000000000000
+      internalID: 8119985258551680305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_68
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 15
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba99938eabad9840800000000000000
+      internalID: 5232527108094925501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_69
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 15
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d517ee9ca134f5ad0800000000000000
+      internalID: -2711374668317691555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_70
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 15
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aba8c6f3a908dad0800000000000000
+      internalID: -2677379378647094362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Lollipop Right_71
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 15
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e0d14e1c3de3e90800000000000000
+      internalID: -7043959937451618739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

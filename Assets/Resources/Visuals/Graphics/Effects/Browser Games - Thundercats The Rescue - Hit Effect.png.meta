@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: 0a13c79c2ba04cf418612d4e79d365c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7798085912863684963
+    second: Browser Games - Thundercats The Rescue - Hit Effect_0
+  - first:
+      213: 5475083267715800200
+    second: Browser Games - Thundercats The Rescue - Hit Effect_1
+  - first:
+      213: -2323008277008902120
+    second: Browser Games - Thundercats The Rescue - Hit Effect_2
+  - first:
+      213: 771210064776209476
+    second: Browser Games - Thundercats The Rescue - Hit Effect_3
+  - first:
+      213: -4545588764884926753
+    second: Browser Games - Thundercats The Rescue - Hit Effect_4
+  - first:
+      213: -823374288666192028
+    second: Browser Games - Thundercats The Rescue - Hit Effect_5
+  - first:
+      213: 1722087944854993036
+    second: Browser Games - Thundercats The Rescue - Hit Effect_6
+  - first:
+      213: 6626823758529623961
+    second: Browser Games - Thundercats The Rescue - Hit Effect_7
+  - first:
+      213: -2131973765952705568
+    second: Browser Games - Thundercats The Rescue - Hit Effect_8
+  - first:
+      213: -4198296340443615070
+    second: Browser Games - Thundercats The Rescue - Hit Effect_9
+  - first:
+      213: 1356986070516225922
+    second: Browser Games - Thundercats The Rescue - Hit Effect_10
+  - first:
+      213: -3316896770191844532
+    second: Browser Games - Thundercats The Rescue - Hit Effect_11
+  - first:
+      213: 3220645425022838994
+    second: Browser Games - Thundercats The Rescue - Hit Effect_12
+  - first:
+      213: -474174733750477528
+    second: Browser Games - Thundercats The Rescue - Hit Effect_13
+  - first:
+      213: 8177505633831250056
+    second: Browser Games - Thundercats The Rescue - Hit Effect_14
+  - first:
+      213: 8868326928408043957
+    second: Browser Games - Thundercats The Rescue - Hit Effect_15
+  - first:
+      213: 9145672472473631327
+    second: Browser Games - Thundercats The Rescue - Hit Effect_16
+  - first:
+      213: 861789246775108847
+    second: Browser Games - Thundercats The Rescue - Hit Effect_17
+  - first:
+      213: -8676702183305884348
+    second: Browser Games - Thundercats The Rescue - Hit Effect_18
+  - first:
+      213: -4398916125305785020
+    second: Browser Games - Thundercats The Rescue - Hit Effect_19
+  - first:
+      213: 7775225235275078024
+    second: Browser Games - Thundercats The Rescue - Hit Effect_20
+  - first:
+      213: -2104958937052738130
+    second: Browser Games - Thundercats The Rescue - Hit Effect_21
+  - first:
+      213: 3800336151847519997
+    second: Browser Games - Thundercats The Rescue - Hit Effect_22
+  - first:
+      213: 4444599337671782505
+    second: Browser Games - Thundercats The Rescue - Hit Effect_23
+  - first:
+      213: -7505489964207293820
+    second: Browser Games - Thundercats The Rescue - Hit Effect_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Browser Games - Thundercats The Rescue - Hit Effect_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 145
+        width: 79
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9648c3ad22a7c390800000000000000
+      internalID: -7798085912863684963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Thundercats The Rescue - Hit Effect_2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 142
+        width: 80
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8189796a74403cfd0800000000000000
+      internalID: -2323008277008902120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Thundercats The Rescue - Hit Effect_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 180
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5afbd968a4fbee70800000000000000
+      internalID: 9145672472473631327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Thundercats The Rescue - Hit Effect_19
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 69
+        width: 84
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445396a2719e3f2c0800000000000000
+      internalID: -4398916125305785020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Thundercats The Rescue - Hit Effect_23
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 137
+        width: 74
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960fcd29c836ead30800000000000000
+      internalID: 4444599337671782505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4c2caa21757a3bc4fa7e3c91c38184e5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Browser Games - Thundercats The Rescue - Hit Effect_0: -7798085912863684963
+      Browser Games - Thundercats The Rescue - Hit Effect_16: 9145672472473631327
+      Browser Games - Thundercats The Rescue - Hit Effect_19: -4398916125305785020
+      Browser Games - Thundercats The Rescue - Hit Effect_2: -2323008277008902120
+      Browser Games - Thundercats The Rescue - Hit Effect_23: 4444599337671782505
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

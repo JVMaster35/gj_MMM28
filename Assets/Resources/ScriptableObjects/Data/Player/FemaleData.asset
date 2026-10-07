@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a45658d67ed56ca4dab3b2a54d0acfac, type: 3}
+  m_Name: FemaleData
+  m_EditorClassIdentifier: 
+  maxHealth: 100
+  healthRegenRate: 0
+  maxHealthRegen: 0
+  defencePower: 10
+  isDead: 0
+  moveSpeed: 5
+  _maxSpeedChange: 0
+  _acceleration: 0
+  _maxAcceleration: 40
+  _maxAirAcceleration: 25
+  _direction: {x: 0, y: 0}
+  _desiredVelocity: {x: 0, y: 0}
+  _velocity: {x: 0, y: 0}
+  _jumpPhase: 0
+  _maxAirJumps: 0
+  jumpPower: 3
+  _downwardMovementMultiplier: 2.5
+  _upwardMovementMultiplier: 1.7
+  _defaultGravityScale: 1
+  _jumpSpeed: 7.672027
+  _desiredJump: 0
+  attackDamage: 45
+  attackRate: 4
+  nextAttackTime: 20.274982
+  attackRange: 0.5
+  interaction: 0
+  gender: 1
+  changeRecharge: 5
+  nearDeathHealthRegain: 25
+  genderSwitchPuff: {fileID: 5271057363660676557, guid: 7211cf12b4dbcbd46a6f3b3d713561f0, type: 3}
+  GroundLayer:
+    serializedVersion: 2
+    m_Bits: 72
+  HazardLayer:
+    serializedVersion: 2
+    m_Bits: 128
+  EnemyLayer:
+    serializedVersion: 2
+    m_Bits: 256
+  BossLayer:
+    serializedVersion: 2
+    m_Bits: 512
+  DamageableLayers:
+    serializedVersion: 2
+    m_Bits: 8960
+  CollectableLayers:
+    serializedVersion: 2
+    m_Bits: 1024
+  canDoubleJump: 0
+  canDash: 0
+  doubleJumpPower: 0
+  dashSpeed: 0
+  dashTime: 0
+  afterImageLifeTime: 0
+  timeBetweenAfterImages: 0
+  waitAfterDashing: 0
+  dashCounter: 0
+  afterImageCounter: 0
+  dashRechargeCounter: 0

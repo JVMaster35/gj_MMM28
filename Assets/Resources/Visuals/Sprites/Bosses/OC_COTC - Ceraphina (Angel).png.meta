@@ -1,0 +1,4406 @@
+fileFormatVersion: 2
+guid: 9ff0320c75a6b3c4fbcfed41c1f61708
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6630857217929716688
+    second: OC_COTC - Ceraphina (Angel)_0
+  - first:
+      213: -1411793310856760909
+    second: OC_COTC - Ceraphina (Angel)_1
+  - first:
+      213: 6515667861338692700
+    second: OC_COTC - Ceraphina (Angel)_2
+  - first:
+      213: -1114107339004938682
+    second: OC_COTC - Ceraphina (Angel)_3
+  - first:
+      213: -2993030061659864031
+    second: OC_COTC - Ceraphina (Angel)_4
+  - first:
+      213: 7531706721068505089
+    second: OC_COTC - Ceraphina (Angel)_5
+  - first:
+      213: -6953093387648122303
+    second: OC_COTC - Ceraphina (Angel)_6
+  - first:
+      213: 18679773048108372
+    second: OC_COTC - Ceraphina (Angel)_7
+  - first:
+      213: 2944038328831060613
+    second: OC_COTC - Ceraphina (Angel)_8
+  - first:
+      213: 735991009861574482
+    second: OC_COTC - Ceraphina (Angel)_9
+  - first:
+      213: -7494997051098120901
+    second: OC_COTC - Ceraphina (Angel)_10
+  - first:
+      213: 2986117987967674263
+    second: OC_COTC - Ceraphina (Angel)_11
+  - first:
+      213: 2173209559581175336
+    second: OC_COTC - Ceraphina (Angel)_12
+  - first:
+      213: 1052490206508072008
+    second: OC_COTC - Ceraphina (Angel)_13
+  - first:
+      213: 7904705316959748338
+    second: OC_COTC - Ceraphina (Angel)_14
+  - first:
+      213: 3067033117157737542
+    second: OC_COTC - Ceraphina (Angel)_15
+  - first:
+      213: 261916484252287288
+    second: OC_COTC - Ceraphina (Angel)_16
+  - first:
+      213: 2650959711892509027
+    second: OC_COTC - Ceraphina (Angel)_17
+  - first:
+      213: 4823590195912843629
+    second: OC_COTC - Ceraphina (Angel)_18
+  - first:
+      213: 822993499227819698
+    second: OC_COTC - Ceraphina (Angel)_19
+  - first:
+      213: 8038489578425064353
+    second: OC_COTC - Ceraphina (Angel)_20
+  - first:
+      213: -5545522828398848616
+    second: OC_COTC - Ceraphina (Angel)_21
+  - first:
+      213: -3193458222904533564
+    second: OC_COTC - Ceraphina (Angel)_22
+  - first:
+      213: -6039815394306319890
+    second: OC_COTC - Ceraphina (Angel)_23
+  - first:
+      213: 3482333168951123281
+    second: OC_COTC - Ceraphina (Angel)_24
+  - first:
+      213: -3193905567244466495
+    second: OC_COTC - Ceraphina (Angel)_25
+  - first:
+      213: 5389146373721610518
+    second: OC_COTC - Ceraphina (Angel)_26
+  - first:
+      213: 7083280723769052698
+    second: OC_COTC - Ceraphina (Angel)_27
+  - first:
+      213: -8623464872596936157
+    second: OC_COTC - Ceraphina (Angel)_28
+  - first:
+      213: -2716567050521728137
+    second: OC_COTC - Ceraphina (Angel)_29
+  - first:
+      213: 2699276792188803919
+    second: OC_COTC - Ceraphina (Angel)_30
+  - first:
+      213: 4667625155334543527
+    second: OC_COTC - Ceraphina (Angel)_31
+  - first:
+      213: 8869197815464130914
+    second: OC_COTC - Ceraphina (Angel)_32
+  - first:
+      213: -8408734595886896140
+    second: OC_COTC - Ceraphina (Angel)_33
+  - first:
+      213: 5813305988121068149
+    second: OC_COTC - Ceraphina (Angel)_34
+  - first:
+      213: 1108414289848323644
+    second: OC_COTC - Ceraphina (Angel)_35
+  - first:
+      213: 4391384802870390245
+    second: OC_COTC - Ceraphina (Angel)_36
+  - first:
+      213: 2656218639368554848
+    second: OC_COTC - Ceraphina (Angel)_37
+  - first:
+      213: 4757603370711951770
+    second: OC_COTC - Ceraphina (Angel)_38
+  - first:
+      213: -5577255113041719108
+    second: OC_COTC - Ceraphina (Angel)_39
+  - first:
+      213: 6086424224871610315
+    second: OC_COTC - Ceraphina (Angel)_40
+  - first:
+      213: -7062290653839397281
+    second: OC_COTC - Ceraphina (Angel)_41
+  - first:
+      213: -29936617028544187
+    second: OC_COTC - Ceraphina (Angel)_42
+  - first:
+      213: -4934152908736826487
+    second: OC_COTC - Ceraphina (Angel)_43
+  - first:
+      213: -7359130561584069518
+    second: OC_COTC - Ceraphina (Angel)_44
+  - first:
+      213: -5838954364776955628
+    second: OC_COTC - Ceraphina (Angel)_45
+  - first:
+      213: 2474017859436347992
+    second: OC_COTC - Ceraphina (Angel)_46
+  - first:
+      213: 3142449251910436172
+    second: OC_COTC - Ceraphina (Angel)_47
+  - first:
+      213: -1807882942572324840
+    second: OC_COTC - Ceraphina (Angel)_48
+  - first:
+      213: -7473185053590864097
+    second: OC_COTC - Ceraphina (Angel)_49
+  - first:
+      213: 3651876958275232950
+    second: OC_COTC - Ceraphina (Angel)_50
+  - first:
+      213: 4801671436731434136
+    second: OC_COTC - Ceraphina (Angel)_51
+  - first:
+      213: 8514432880485374670
+    second: OC_COTC - Ceraphina (Angel)_52
+  - first:
+      213: -4225321852590238691
+    second: OC_COTC - Ceraphina (Angel)_53
+  - first:
+      213: -5961312074076223264
+    second: OC_COTC - Ceraphina (Angel)_54
+  - first:
+      213: -3702791740945432924
+    second: OC_COTC - Ceraphina (Angel)_55
+  - first:
+      213: 8919162584533317705
+    second: OC_COTC - Ceraphina (Angel)_56
+  - first:
+      213: -7856515895863730998
+    second: OC_COTC - Ceraphina (Angel)_57
+  - first:
+      213: -8007224730068282527
+    second: OC_COTC - Ceraphina (Angel)_58
+  - first:
+      213: -4369926918918225281
+    second: OC_COTC - Ceraphina (Angel)_59
+  - first:
+      213: -2470554482754507313
+    second: OC_COTC - Ceraphina (Angel)_60
+  - first:
+      213: -5650748351898165340
+    second: OC_COTC - Ceraphina (Angel)_61
+  - first:
+      213: -424013456695006251
+    second: OC_COTC - Ceraphina (Angel)_62
+  - first:
+      213: -5990059239602817436
+    second: OC_COTC - Ceraphina (Angel)_63
+  - first:
+      213: 4251329375412987583
+    second: OC_COTC - Ceraphina (Angel)_64
+  - first:
+      213: -7344136766532915822
+    second: OC_COTC - Ceraphina (Angel)_65
+  - first:
+      213: 3450923413477628747
+    second: OC_COTC - Ceraphina (Angel)_66
+  - first:
+      213: 7371982584407221286
+    second: OC_COTC - Ceraphina (Angel)_67
+  - first:
+      213: 4065466612955798265
+    second: OC_COTC - Ceraphina (Angel)_68
+  - first:
+      213: -5415726394206259051
+    second: OC_COTC - Ceraphina (Angel)_69
+  - first:
+      213: 5958244808507697480
+    second: OC_COTC - Ceraphina (Angel)_70
+  - first:
+      213: 9025377402992231210
+    second: OC_COTC - Ceraphina (Angel)_71
+  - first:
+      213: 8765239913610032078
+    second: OC_COTC - Ceraphina (Angel)_72
+  - first:
+      213: -8091908412087397858
+    second: OC_COTC - Ceraphina (Angel)_73
+  - first:
+      213: -2437328952922381915
+    second: OC_COTC - Ceraphina (Angel)_74
+  - first:
+      213: 4605635316504426085
+    second: OC_COTC - Ceraphina (Angel)_75
+  - first:
+      213: 7940596388677125179
+    second: OC_COTC - Ceraphina (Angel)_76
+  - first:
+      213: -4461334149983718988
+    second: OC_COTC - Ceraphina (Angel)_77
+  - first:
+      213: 2172460129469756515
+    second: OC_COTC - Ceraphina (Angel)_78
+  - first:
+      213: -892697636411199217
+    second: OC_COTC - Ceraphina (Angel)_79
+  - first:
+      213: -3752948624648036195
+    second: OC_COTC - Ceraphina (Angel)_80
+  - first:
+      213: 3509118338356480711
+    second: OC_COTC - Ceraphina (Angel)_81
+  - first:
+      213: 316774403818769398
+    second: OC_COTC - Ceraphina (Angel)_82
+  - first:
+      213: 6308798421126912588
+    second: OC_COTC - Ceraphina (Angel)_83
+  - first:
+      213: -8622947083115934946
+    second: OC_COTC - Ceraphina (Angel)_84
+  - first:
+      213: -4389417403429141296
+    second: OC_COTC - Ceraphina (Angel)_85
+  - first:
+      213: -2894313224334277847
+    second: OC_COTC - Ceraphina (Angel)_86
+  - first:
+      213: 3098187078697941405
+    second: OC_COTC - Ceraphina (Angel)_87
+  - first:
+      213: 2752411259116686287
+    second: OC_COTC - Ceraphina (Angel)_88
+  - first:
+      213: 1952299712304931046
+    second: OC_COTC - Ceraphina (Angel)_89
+  - first:
+      213: 3245030179140117165
+    second: OC_COTC - Ceraphina (Angel)_90
+  - first:
+      213: -5478618510785001972
+    second: OC_COTC - Ceraphina (Angel)_91
+  - first:
+      213: 7220975155599366917
+    second: OC_COTC - Ceraphina (Angel)_92
+  - first:
+      213: -8077729794963332158
+    second: OC_COTC - Ceraphina (Angel)_93
+  - first:
+      213: 8213708268994849026
+    second: OC_COTC - Ceraphina (Angel)_94
+  - first:
+      213: -9168424501356398340
+    second: OC_COTC - Ceraphina (Angel)_95
+  - first:
+      213: -9192552398764791031
+    second: OC_COTC - Ceraphina (Angel)_96
+  - first:
+      213: -5479017500196526902
+    second: OC_COTC - Ceraphina (Angel)_97
+  - first:
+      213: 1510965124029291818
+    second: OC_COTC - Ceraphina (Angel)_98
+  - first:
+      213: 7010623528986499143
+    second: OC_COTC - Ceraphina (Angel)_99
+  - first:
+      213: -1178193210685800770
+    second: OC_COTC - Ceraphina (Angel)_100
+  - first:
+      213: -4891457882007564637
+    second: OC_COTC - Ceraphina (Angel)_101
+  - first:
+      213: 8077974222364070878
+    second: OC_COTC - Ceraphina (Angel)_102
+  - first:
+      213: -6757280050861882266
+    second: OC_COTC - Ceraphina (Angel)_103
+  - first:
+      213: -503791995348291544
+    second: OC_COTC - Ceraphina (Angel)_104
+  - first:
+      213: -830454742628670074
+    second: OC_COTC - Ceraphina (Angel)_105
+  - first:
+      213: 1759089080421380339
+    second: OC_COTC - Ceraphina (Angel)_106
+  - first:
+      213: 2115894151336409215
+    second: OC_COTC - Ceraphina (Angel)_107
+  - first:
+      213: -1511116793462846970
+    second: OC_COTC - Ceraphina (Angel)_108
+  - first:
+      213: -2205077399731297716
+    second: OC_COTC - Ceraphina (Angel)_109
+  - first:
+      213: 8830767951785335694
+    second: OC_COTC - Ceraphina (Angel)_110
+  - first:
+      213: -7659981977561941665
+    second: OC_COTC - Ceraphina (Angel)_111
+  - first:
+      213: -7935895150498227400
+    second: OC_COTC - Ceraphina (Angel)_112
+  - first:
+      213: 951629023048290206
+    second: OC_COTC - Ceraphina (Angel)_113
+  - first:
+      213: 2532584594937873902
+    second: OC_COTC - Ceraphina (Angel)_114
+  - first:
+      213: -7568264601976341658
+    second: OC_COTC - Ceraphina (Angel)_115
+  - first:
+      213: -1603799361263595862
+    second: OC_COTC - Ceraphina (Angel)_116
+  - first:
+      213: -6047169819479501279
+    second: OC_COTC - Ceraphina (Angel)_117
+  - first:
+      213: 6519029802017218369
+    second: OC_COTC - Ceraphina (Angel)_118
+  - first:
+      213: -919778030593988346
+    second: OC_COTC - Ceraphina (Angel)_119
+  - first:
+      213: -6495365720013378641
+    second: OC_COTC - Ceraphina (Angel)_120
+  - first:
+      213: 3657940449553225029
+    second: OC_COTC - Ceraphina (Angel)_121
+  - first:
+      213: -5828845972714208212
+    second: OC_COTC - Ceraphina (Angel)_122
+  - first:
+      213: -2660556356618154340
+    second: OC_COTC - Ceraphina (Angel)_123
+  - first:
+      213: 3607970192726828025
+    second: OC_COTC - Ceraphina (Angel)_124
+  - first:
+      213: 8945956640913040397
+    second: OC_COTC - Ceraphina (Angel)_125
+  - first:
+      213: -108212941535022196
+    second: OC_COTC - Ceraphina (Angel)_126
+  - first:
+      213: 6458667162108405856
+    second: OC_COTC - Ceraphina (Angel)_127
+  - first:
+      213: -4215808786032559464
+    second: OC_COTC - Ceraphina (Angel)_128
+  - first:
+      213: 3863829806685931539
+    second: OC_COTC - Ceraphina (Angel)_129
+  - first:
+      213: -4276594556913052548
+    second: OC_COTC - Ceraphina (Angel)_130
+  - first:
+      213: 1148845984061165833
+    second: OC_COTC - Ceraphina (Angel)_131
+  - first:
+      213: 2698659481762882938
+    second: OC_COTC - Ceraphina (Angel)_132
+  - first:
+      213: -7971380701970753141
+    second: OC_COTC - Ceraphina (Angel)_133
+  - first:
+      213: -6795836036282664768
+    second: OC_COTC - Ceraphina (Angel)_134
+  - first:
+      213: 2580416436992429670
+    second: OC_COTC - Ceraphina (Angel)_135
+  - first:
+      213: 3991700915704447162
+    second: OC_COTC - Ceraphina (Angel)_136
+  - first:
+      213: 6039145907977198204
+    second: OC_COTC - Ceraphina (Angel)_137
+  - first:
+      213: -2406131405484114182
+    second: OC_COTC - Ceraphina (Angel)_138
+  - first:
+      213: 1335198683851701254
+    second: OC_COTC - Ceraphina (Angel)_139
+  - first:
+      213: -3877824187461902888
+    second: OC_COTC - Ceraphina (Angel)_140
+  - first:
+      213: 3861537675880959709
+    second: OC_COTC - Ceraphina (Angel)_141
+  - first:
+      213: 272528397575435406
+    second: OC_COTC - Ceraphina (Angel)_142
+  - first:
+      213: -5090534536224526024
+    second: OC_COTC - Ceraphina (Angel)_143
+  - first:
+      213: -5814213066819405579
+    second: OC_COTC - Ceraphina (Angel)_144
+  - first:
+      213: -1217533389562914680
+    second: OC_COTC - Ceraphina (Angel)_145
+  - first:
+      213: 8951561211982246294
+    second: OC_COTC - Ceraphina (Angel)_146
+  - first:
+      213: 2549249824072618105
+    second: OC_COTC - Ceraphina (Angel)_147
+  - first:
+      213: -8342820163428468176
+    second: OC_COTC - Ceraphina (Angel)_148
+  - first:
+      213: -1657133392825200205
+    second: OC_COTC - Ceraphina (Angel)_149
+  - first:
+      213: 2883831500638644213
+    second: OC_COTC - Ceraphina (Angel)_150
+  - first:
+      213: 1790549203109742743
+    second: OC_COTC - Ceraphina (Angel)_151
+  - first:
+      213: 4710644708715892843
+    second: OC_COTC - Ceraphina (Angel)_152
+  - first:
+      213: 6336465405743902887
+    second: OC_COTC - Ceraphina (Angel)_153
+  - first:
+      213: -6927724977116850924
+    second: OC_COTC - Ceraphina (Angel)_154
+  - first:
+      213: 8139654442929737094
+    second: OC_COTC - Ceraphina (Angel)_155
+  - first:
+      213: -3307979304347235187
+    second: OC_COTC - Ceraphina (Angel)_156
+  - first:
+      213: -7364990713554476596
+    second: OC_COTC - Ceraphina (Angel)_157
+  - first:
+      213: 6585488565291056268
+    second: OC_COTC - Ceraphina (Angel)_158
+  - first:
+      213: -1914451383531392181
+    second: OC_COTC - Ceraphina (Angel)_159
+  - first:
+      213: -1246045276461646942
+    second: OC_COTC - Ceraphina (Angel)_160
+  - first:
+      213: -8526326773979872814
+    second: OC_COTC - Ceraphina (Angel)_161
+  - first:
+      213: -4605770253591822954
+    second: OC_COTC - Ceraphina (Angel)_162
+  - first:
+      213: -5117718924469290160
+    second: OC_COTC - Ceraphina (Angel)_163
+  - first:
+      213: 6744870659188189322
+    second: OC_COTC - Ceraphina (Angel)_164
+  - first:
+      213: -7559541620009547108
+    second: OC_COTC - Ceraphina (Angel)_165
+  - first:
+      213: 6082430897172579763
+    second: OC_COTC - Ceraphina (Angel)_166
+  - first:
+      213: 795112451310661542
+    second: OC_COTC - Ceraphina (Angel)_167
+  - first:
+      213: 3727668212705805258
+    second: OC_COTC - Ceraphina (Angel)_168
+  - first:
+      213: -8707338943074789370
+    second: OC_COTC - Ceraphina (Angel)_169
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 836
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cd6f8fd767af3a0800000000000000
+      internalID: -6630857217929716688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 836
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b13c1ab67d486ce0800000000000000
+      internalID: -1411793310856760909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 836
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c958df56d4c6a50800000000000000
+      internalID: 6515667861338692700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 836
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64674f82745e980f0800000000000000
+      internalID: -1114107339004938682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 836
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124c2b4440f9676d0800000000000000
+      internalID: -2993030061659864031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 836
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108d5bdab5ff58860800000000000000
+      internalID: 7531706721068505089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_6
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 836
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142cd1b2766a18f90800000000000000
+      internalID: -6953093387648122303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_7
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 836
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4557405972d524000800000000000000
+      internalID: 18679773048108372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_8
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 836
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a2c1b03435bd820800000000000000
+      internalID: 2944038328831060613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_9
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 836
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f1eac8ce3c63a00800000000000000
+      internalID: 735991009861574482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 792
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d32b864eb6cf790800000000000000
+      internalID: -7494997051098120901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 792
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797a73a2d72d07920800000000000000
+      internalID: 2986117987967674263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 792
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ea15d849ac82e10800000000000000
+      internalID: 2173209559581175336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_13
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 793
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cbd7834423b9e00800000000000000
+      internalID: 1052490206508072008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_14
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 792
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f00787da9723bd60800000000000000
+      internalID: 7904705316959748338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_15
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 792
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644cb86ce5a409a20800000000000000
+      internalID: 3067033117157737542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_16
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 793
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8314dac97a382a300800000000000000
+      internalID: 261916484252287288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_17
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 792
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361993500d91ac420800000000000000
+      internalID: 2650959711892509027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_18
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 793
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6121790ab5d0f240800000000000000
+      internalID: 4823590195912843629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_19
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 793
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be0ee52a3cdb6b00800000000000000
+      internalID: 822993499227819698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 748
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab94bc8ea37e8f60800000000000000
+      internalID: 8038489578425064353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_21
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 749
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89597777e585a03b0800000000000000
+      internalID: -5545522828398848616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_22
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 749
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd99ba7aae8ea3d0800000000000000
+      internalID: -3193458222904533564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 748
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee99f6136e34e2ca0800000000000000
+      internalID: -6039815394306319890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_24
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 748
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d54e4219bb35030800000000000000
+      internalID: 3482333168951123281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_25
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 748
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c640420fc7fca3d0800000000000000
+      internalID: -3193905567244466495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_26
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 749
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619d240f2181aca40800000000000000
+      internalID: 5389146373721610518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_27
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 749
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e40a81a4edc4260800000000000000
+      internalID: 7083280723769052698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_28
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 748
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32aeccf236c435880800000000000000
+      internalID: -8623464872596936157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_29
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 748
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b2f1919a0dc4ad0800000000000000
+      internalID: -2716567050521728137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 704
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b9edce0f1c57520800000000000000
+      internalID: 2699276792188803919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 704
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a89460495cb6c040800000000000000
+      internalID: 4667625155334543527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_32
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 704
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269f8611c68b51b70800000000000000
+      internalID: 8869197815464130914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_33
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 704
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbaf99bf6c2e4b80800000000000000
+      internalID: -8408734595886896140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_34
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 704
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5728b98fef20da050800000000000000
+      internalID: 5813305988121068149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_35
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 704
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e406a8ce0e16f00800000000000000
+      internalID: 1108414289848323644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_36
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 704
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed632f263551fc30800000000000000
+      internalID: 4391384802870390245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_37
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 704
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069855d77c8ccd420800000000000000
+      internalID: 2656218639368554848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_38
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 704
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99ac7d0f07660240800000000000000
+      internalID: 4757603370711951770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_39
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 704
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0da65360c9992b0800000000000000
+      internalID: -5577255113041719108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 660
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7fdc3d592577450800000000000000
+      internalID: 6086424224871610315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_41
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 660
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e67556114bdfd90800000000000000
+      internalID: -7062290653839397281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_42
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 660
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5499c303ec4a59ff0800000000000000
+      internalID: -29936617028544187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_43
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 660
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983f74f521e568bb0800000000000000
+      internalID: -4934152908736826487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_44
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 660
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2748f0d9ebd1fd990800000000000000
+      internalID: -7359130561584069518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_45
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 660
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411c0cbf0fdd7fea0800000000000000
+      internalID: -5838954364776955628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_46
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 660
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8520daf922a755220800000000000000
+      internalID: 2474017859436347992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_47
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 660
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4540d8f1f83c9b20800000000000000
+      internalID: 3142449251910436172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_48
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 660
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8181d74da0c19e6e0800000000000000
+      internalID: -1807882942572324840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_49
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 660
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f35f3d9c9e94890800000000000000
+      internalID: -7473185053590864097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_50
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 616
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4ed6dbeb21ea230800000000000000
+      internalID: 3651876958275232950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_51
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 616
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894448a3bb6f2a240800000000000000
+      internalID: 4801671436731434136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_52
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 616
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca9c39e797592670800000000000000
+      internalID: 8514432880485374670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_53
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 616
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14d9aa6924ac55c0800000000000000
+      internalID: -4225321852590238691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_54
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 616
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e88075c04a254da0800000000000000
+      internalID: -5961312074076223264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_55
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 616
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae72b3a78a0d9cc0800000000000000
+      internalID: -3702791740945432924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_56
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 616
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94830196d1b37cb70800000000000000
+      internalID: 8919162584533317705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_57
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 616
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc15d61b6c08f290800000000000000
+      internalID: -7856515895863730998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_58
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 616
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1639e87388f90e090800000000000000
+      internalID: -8007224730068282527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_59
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 616
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72467fbe96ea53c0800000000000000
+      internalID: -4369926918918225281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 572
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd2b2999c3d6bdd0800000000000000
+      internalID: -2470554482754507313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_61
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 572
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af5cf910528491b0800000000000000
+      internalID: -5650748351898165340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_62
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 572
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db65b5f10a9d1af0800000000000000
+      internalID: -424013456695006251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_63
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 572
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4667de7bbd80fdca0800000000000000
+      internalID: -5990059239602817436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_64
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 572
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6acacda81cffa30800000000000000
+      internalID: 4251329375412987583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_65
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 572
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d6be09582641a90800000000000000
+      internalID: -7344136766532915822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_66
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 572
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b996f8f8424ef20800000000000000
+      internalID: 3450923413477628747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_67
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 572
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62465f12a1b8e4660800000000000000
+      internalID: 7371982584407221286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_68
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 580
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fad07f38507b6830800000000000000
+      internalID: 4065466612955798265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_69
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 572
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598f0a8c98977d4b0800000000000000
+      internalID: -5415726394206259051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_70
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 528
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849aaefc510ffa250800000000000000
+      internalID: 5958244808507697480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_71
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 528
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a238035fde4904d70800000000000000
+      internalID: 9025377402992231210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_72
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 528
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec33dcdd24364a970800000000000000
+      internalID: 8765239913610032078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_73
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 528
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1219860c24c3bf80800000000000000
+      internalID: -8091908412087397858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_74
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 528
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a169481b3edc2ed0800000000000000
+      internalID: -2437328952922381915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_75
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 528
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5667d3d2be08aef30800000000000000
+      internalID: 4605635316504426085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_76
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 528
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3489db285aa23e60800000000000000
+      internalID: 7940596388677125179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_77
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 528
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1b6ed4a382612c0800000000000000
+      internalID: -4461334149983718988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_78
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 528
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3647eb14af0262e10800000000000000
+      internalID: 2172460129469756515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_79
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 528
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0131e9ba308c93f0800000000000000
+      internalID: -892697636411199217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_80
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 484
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90209f1c19daebc0800000000000000
+      internalID: -3752948624648036195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_81
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 484
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca0c806984e2b030800000000000000
+      internalID: 3509118338356480711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_82
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 485
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbcd8554a8656400800000000000000
+      internalID: 316774403818769398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_83
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 484
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a90d21dba5d8750800000000000000
+      internalID: 6308798421126912588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_84
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 484
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b42e17053255880800000000000000
+      internalID: -8622947083115934946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_85
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 485
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d440b1b028a513c0800000000000000
+      internalID: -4389417403429141296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_86
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 484
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92307da057555d7d0800000000000000
+      internalID: -2894313224334277847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_87
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 485
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99fe71bbb8fefa20800000000000000
+      internalID: 3098187078697941405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_88
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 485
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb8f6f0577823620800000000000000
+      internalID: 2752411259116686287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_89
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 484
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0680f9e36f71b10800000000000000
+      internalID: 1952299712304931046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_90
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 441
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2a11941c9a80d20800000000000000
+      internalID: 3245030179140117165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_91
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 441
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06c7cccd7908f3b0800000000000000
+      internalID: -5478618510785001972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_92
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 440
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bdb6945ae063460800000000000000
+      internalID: 7220975155599366917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_93
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 440
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c32f939c8326ef80800000000000000
+      internalID: -8077729794963332158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_94
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 440
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209602e0724fcf170800000000000000
+      internalID: 8213708268994849026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_95
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 441
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8f9ae0e7633c080800000000000000
+      internalID: -9168424501356398340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_96
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 441
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ba57c2c4e7d6080800000000000000
+      internalID: -9192552398764791031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_97
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 440
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac423a6dc9e96f3b0800000000000000
+      internalID: -5479017500196526902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_98
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 440
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d15cd56c608f410800000000000000
+      internalID: 1510965124029291818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_99
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 440
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7485c3ba4fcba4160800000000000000
+      internalID: 7010623528986499143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_100
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 396
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebebb48648736afe0800000000000000
+      internalID: -1178193210685800770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_101
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 396
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae872de8fc0e1cb0800000000000000
+      internalID: -4891457882007564637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_102
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 396
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3d5cc91caba1070800000000000000
+      internalID: 8077974222364070878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_103
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 396
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6644b8868915932a0800000000000000
+      internalID: -6757280050861882266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_104
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 396
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820749479db2209f0800000000000000
+      internalID: -503791995348291544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_105
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 396
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685649fbfc1a974f0800000000000000
+      internalID: -830454742628670074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_106
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 396
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0f8c6d23a896810800000000000000
+      internalID: 1759089080421380339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_107
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 396
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78bbb8258a2d5d10800000000000000
+      internalID: 2115894151336409215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_108
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 396
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a0587584f670be0800000000000000
+      internalID: -1511116793462846970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_109
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 396
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4226c6b9cdf561e0800000000000000
+      internalID: -2205077399731297716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_110
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 348
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b911c2aa03d8a70800000000000000
+      internalID: 8830767951785335694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_111
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 348
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59b689c9f642b590800000000000000
+      internalID: -7659981977561941665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_112
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 348
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bdec328690ed190800000000000000
+      internalID: -7935895150498227400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_113
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 348
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fceb4fd8dd43d00800000000000000
+      internalID: 951629023048290206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_114
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 348
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee506e8554c852320800000000000000
+      internalID: 2532584594937873902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_115
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 349
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b7901617f18f690800000000000000
+      internalID: -7568264601976341658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_116
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 348
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae82ec6af82eb9e0800000000000000
+      internalID: -1603799361263595862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_117
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 348
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1261675a613241ca0800000000000000
+      internalID: -6047169819479501279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_118
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 350
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fdb6dc01f387a50800000000000000
+      internalID: 6519029802017218369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_119
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 351
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609ac3e11ca4c33f0800000000000000
+      internalID: -919778030593988346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_120
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 307
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab6a54aa43dbd5a0800000000000000
+      internalID: -6495365720013378641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_121
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 307
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5451721557d93c230800000000000000
+      internalID: 3657940449553225029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_122
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 306
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2447e96877cb1fa0800000000000000
+      internalID: -5828845972714208212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_123
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 304
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e0ed2071ec31bd0800000000000000
+      internalID: -2660556356618154340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_124
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 308
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f32ea146c5121230800000000000000
+      internalID: 3607970192726828025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_125
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 308
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d042badca2c662c70800000000000000
+      internalID: 8945956640913040397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_126
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 308
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8374bb27ec8f7ef0800000000000000
+      internalID: -108212941535022196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_127
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 263
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068a3ff709bc1a950800000000000000
+      internalID: 6458667162108405856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_128
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 268
+        width: 74
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89afe83de307e75c0800000000000000
+      internalID: -4215808786032559464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_129
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 268
+        width: 74
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318c41cdcb41f9530800000000000000
+      internalID: 3863829806685931539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_130
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 268
+        width: 74
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7414daa8eb76a4c0800000000000000
+      internalID: -4276594556913052548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_131
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 268
+        width: 74
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901999de55581ff00800000000000000
+      internalID: 1148845984061165833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_132
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 216
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7567342080937520800000000000000
+      internalID: 2698659481762882938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_133
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 216
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8911a95c77ff5190800000000000000
+      internalID: -7971380701970753141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_134
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 216
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8b291812750b1a0800000000000000
+      internalID: -6795836036282664768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_135
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 216
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e438be31b7fc320800000000000000
+      internalID: 2580416436992429670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_136
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 216
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab04a2a75de556730800000000000000
+      internalID: 3991700915704447162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_137
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 216
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a1cbfd43b5fc350800000000000000
+      internalID: 6039145907977198204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_138
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 216
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe35352c34bb9ed0800000000000000
+      internalID: -2406131405484114182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_139
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 216
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cbc87f024978210800000000000000
+      internalID: 1335198683851701254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_140
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 216
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd5ae472733f2ac0800000000000000
+      internalID: -3877824187461902888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_141
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 216
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde0ca19e00f69530800000000000000
+      internalID: 3861537675880959709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_142
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 172
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84b0b8322738c300800000000000000
+      internalID: 272528397575435406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_143
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 172
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831ba736fc9ca59b0800000000000000
+      internalID: -5090534536224526024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_144
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 172
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f87bcf4504cf4fa0800000000000000
+      internalID: -5814213066819405579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_145
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 172
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888dcec35d37a1fe0800000000000000
+      internalID: -1217533389562914680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_146
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 172
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691fd51be755a3c70800000000000000
+      internalID: 8951561211982246294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_147
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 172
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970539f5531c06320800000000000000
+      internalID: 2549249824072618105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_148
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 172
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a31e57349583c80800000000000000
+      internalID: -8342820163428468176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_149
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 172
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1573785fda009e0800000000000000
+      internalID: -1657133392825200205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_150
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 128
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7e5ab787d650820800000000000000
+      internalID: 2883831500638644213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_151
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 128
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7980734730f49d810800000000000000
+      internalID: 1790549203109742743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_152
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 128
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60951e87629f5140800000000000000
+      internalID: 4710644708715892843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_153
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 128
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0bae8e6b5afe750800000000000000
+      internalID: 6336465405743902887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_154
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 128
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415595586d6cbdf90800000000000000
+      internalID: -6927724977116850924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_155
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 84
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68dc141179cd5f070800000000000000
+      internalID: 8139654442929737094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_156
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 84
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c0a006952b712d0800000000000000
+      internalID: -3307979304347235187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_157
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 84
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1e888a7fb4ac990800000000000000
+      internalID: -7364990713554476596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_158
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 84
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cf19e65fa546b50800000000000000
+      internalID: 6585488565291056268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_159
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 40
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b433bd02c908e65e0800000000000000
+      internalID: -1914451383531392181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_160
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 42
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab33724c6825bee0800000000000000
+      internalID: -1246045276461646942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_161
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 43
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1070639f66ca980800000000000000
+      internalID: -8526326773979872814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_162
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 43
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d39955b540510c0800000000000000
+      internalID: -4605770253591822954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_163
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 43
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bb6b6c0c53af8b0800000000000000
+      internalID: -5117718924469290160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_164
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 42
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88edd0f0289a9d50800000000000000
+      internalID: 6744870659188189322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_165
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 40
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9acc82e2fc171790800000000000000
+      internalID: -7559541620009547108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_166
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b505d4cca2296450800000000000000
+      internalID: 6082430897172579763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_167
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afacd0df8ec80b00800000000000000
+      internalID: 795112451310661542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_168
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac348da4d765bb330800000000000000
+      internalID: 3727668212705805258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OC_COTC - Ceraphina (Angel)_169
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6081a1f5d51592780800000000000000
+      internalID: -8707338943074789370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

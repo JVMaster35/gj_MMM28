@@ -1,0 +1,1981 @@
+fileFormatVersion: 2
+guid: dcfa8c24f876bbe4cb12e34529f2695d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3360977127774766954
+    second: Male Lollipop Right_0
+  - first:
+      213: -6443859414128379286
+    second: Male Lollipop Right_1
+  - first:
+      213: -6176233203943754972
+    second: Male Lollipop Right_2
+  - first:
+      213: -1232196578522074967
+    second: Male Lollipop Right_3
+  - first:
+      213: -3832289765424713858
+    second: Male Lollipop Right_4
+  - first:
+      213: -6930692225067555619
+    second: Male Lollipop Right_5
+  - first:
+      213: -3684514769574954569
+    second: Male Lollipop Right_6
+  - first:
+      213: 3841982303344948190
+    second: Male Lollipop Right_7
+  - first:
+      213: -4350240530086756615
+    second: Male Lollipop Right_8
+  - first:
+      213: 6376098104525966566
+    second: Male Lollipop Right_9
+  - first:
+      213: -510243514726556601
+    second: Male Lollipop Right_10
+  - first:
+      213: 3735217669500432023
+    second: Male Lollipop Right_11
+  - first:
+      213: 8442723712935961794
+    second: Male Lollipop Right_12
+  - first:
+      213: -1870192313846035720
+    second: Male Lollipop Right_13
+  - first:
+      213: 3242436071444551250
+    second: Male Lollipop Right_14
+  - first:
+      213: 4686875927805815708
+    second: Male Lollipop Right_15
+  - first:
+      213: -3666712708486924292
+    second: Male Lollipop Right_16
+  - first:
+      213: -2156429959838925177
+    second: Male Lollipop Right_17
+  - first:
+      213: -4061283536868932773
+    second: Male Lollipop Right_18
+  - first:
+      213: 3353893447706881123
+    second: Male Lollipop Right_19
+  - first:
+      213: 917156686923901253
+    second: Male Lollipop Right_20
+  - first:
+      213: -8313372618408923681
+    second: Male Lollipop Right_21
+  - first:
+      213: -2856264550338059855
+    second: Male Lollipop Right_22
+  - first:
+      213: 6983795140149915778
+    second: Male Lollipop Right_23
+  - first:
+      213: 4361649055376533813
+    second: Male Lollipop Right_24
+  - first:
+      213: 3854198951758289374
+    second: Male Lollipop Right_25
+  - first:
+      213: 8348300220874121909
+    second: Male Lollipop Right_26
+  - first:
+      213: 1085691084790803984
+    second: Male Lollipop Right_27
+  - first:
+      213: 7896984043253593960
+    second: Male Lollipop Right_28
+  - first:
+      213: -1301525735471738989
+    second: Male Lollipop Right_29
+  - first:
+      213: -6661388386816460714
+    second: Male Lollipop Right_30
+  - first:
+      213: -1633809522850089411
+    second: Male Lollipop Right_31
+  - first:
+      213: -4195971871103520554
+    second: Male Lollipop Right_32
+  - first:
+      213: -4062117058102055835
+    second: Male Lollipop Right_33
+  - first:
+      213: 7552502562031977788
+    second: Male Lollipop Right_34
+  - first:
+      213: 1718378807918085349
+    second: Male Lollipop Right_35
+  - first:
+      213: -7178367427674778396
+    second: Male Lollipop Right_36
+  - first:
+      213: 5917326829658272357
+    second: Male Lollipop Right_37
+  - first:
+      213: 6202472265951096822
+    second: Male Lollipop Right_38
+  - first:
+      213: -165051445817085076
+    second: Male Lollipop Right_39
+  - first:
+      213: -4235102041268902617
+    second: Male Lollipop Right_40
+  - first:
+      213: -7594768627358171878
+    second: Male Lollipop Right_41
+  - first:
+      213: -1089153166259221942
+    second: Male Lollipop Right_42
+  - first:
+      213: 191460982606096082
+    second: Male Lollipop Right_43
+  - first:
+      213: -693285794898049860
+    second: Male Lollipop Right_44
+  - first:
+      213: 2479962435636656212
+    second: Male Lollipop Right_45
+  - first:
+      213: -2697718014920249936
+    second: Male Lollipop Right_46
+  - first:
+      213: 7706267871251101696
+    second: Male Lollipop Right_47
+  - first:
+      213: -950493718103088860
+    second: Male Lollipop Right_48
+  - first:
+      213: 4883508165638817297
+    second: Male Lollipop Right_49
+  - first:
+      213: -4062014114252235784
+    second: Male Lollipop Right_50
+  - first:
+      213: 4576192848837450955
+    second: Male Lollipop Right_51
+  - first:
+      213: 5013121473205544804
+    second: Male Lollipop Right_52
+  - first:
+      213: 2222593518507694552
+    second: Male Lollipop Right_53
+  - first:
+      213: -8725614732412624652
+    second: Male Lollipop Right_54
+  - first:
+      213: -4599337347686419402
+    second: Male Lollipop Right_55
+  - first:
+      213: 5509653956464897734
+    second: Male Lollipop Right_56
+  - first:
+      213: -1141003294513095405
+    second: Male Lollipop Right_57
+  - first:
+      213: -2488953753511515148
+    second: Male Lollipop Right_58
+  - first:
+      213: -73438964200820281
+    second: Male Lollipop Right_59
+  - first:
+      213: 6878200296565941592
+    second: Male Lollipop Right_60
+  - first:
+      213: 3523732832138793438
+    second: Male Lollipop Right_61
+  - first:
+      213: -7205718280816730990
+    second: Male Lollipop Right_62
+  - first:
+      213: 5275487745421674817
+    second: Male Lollipop Right_63
+  - first:
+      213: 5611412479885184292
+    second: Male Lollipop Right_64
+  - first:
+      213: -2230640841285733076
+    second: Male Lollipop Right_65
+  - first:
+      213: -1705470131471403804
+    second: Male Lollipop Right_66
+  - first:
+      213: 889973074454666477
+    second: Male Lollipop Right_67
+  - first:
+      213: -6195603750942712475
+    second: Male Lollipop Right_68
+  - first:
+      213: 3423374676023238633
+    second: Male Lollipop Right_69
+  - first:
+      213: 3577822446276817492
+    second: Male Lollipop Right_70
+  - first:
+      213: -6481272868983985013
+    second: Male Lollipop Right_71
+  - first:
+      213: -629176760301850195
+    second: Male Lollipop Right_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Male Lollipop Right_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 591
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698b5c80c196b51d0800000000000000
+      internalID: -3360977127774766954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 591
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a325ef000d296a0800000000000000
+      internalID: -6443859414128379286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 591
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423b5f4cf9c994aa0800000000000000
+      internalID: -6176233203943754972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 591
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a07db38dbb56eee0800000000000000
+      internalID: -1232196578522074967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 591
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fae7f33c8f0dac0800000000000000
+      internalID: -3832289765424713858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 591
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd46945442c31df90800000000000000
+      internalID: -6930692225067555619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 591
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9fdc5a659fddcc0800000000000000
+      internalID: -3684514769574954569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_7
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 591
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed376389c86715530800000000000000
+      internalID: 3841982303344948190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 527
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fefba45947d0a3c0800000000000000
+      internalID: -4350240530086756615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_9
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 527
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eccf4da1737c7850800000000000000
+      internalID: 6376098104525966566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 527
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cd6cb0a304be8f0800000000000000
+      internalID: -510243514726556601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 527
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ee55d2ea826d330800000000000000
+      internalID: 3735217669500432023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 527
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4a0564c749a2570800000000000000
+      internalID: 8442723712935961794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 527
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa8a8fcffdbb06e0800000000000000
+      internalID: -1870192313846035720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 527
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2569d558d627ffc20800000000000000
+      internalID: 3242436071444551250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_15
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 527
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9be13ff2d02b0140800000000000000
+      internalID: 4686875927805815708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_16
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 463
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7f93df7383d1dc0800000000000000
+      internalID: -3666712708486924292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 463
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e7ac47062d212e0800000000000000
+      internalID: -2156429959838925177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 463
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5309cc042c63a7c0800000000000000
+      internalID: -4061283536868932773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 463
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c241d225c6b8e20800000000000000
+      internalID: 3353893447706881123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_20
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 463
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549297fb5256abc00800000000000000
+      internalID: 917156686923901253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_21
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 463
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdde64256a7f0ac80800000000000000
+      internalID: -8313372618408923681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_22
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 463
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b12f8c46828c58d0800000000000000
+      internalID: -2856264550338059855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_23
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 463
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2803cb0adac6be060800000000000000
+      internalID: 6983795140149915778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_24
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 399
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539e2a4f4b0b78c30800000000000000
+      internalID: 4361649055376533813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 399
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed95c35b68ddc7530800000000000000
+      internalID: 3854198951758289374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_26
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 399
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b26487d1de1bd370800000000000000
+      internalID: 8348300220874121909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_27
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 399
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ea3c41a46211f00800000000000000
+      internalID: 1085691084790803984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_28
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 399
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867fe07b529b79d60800000000000000
+      internalID: 7896984043253593960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_29
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 399
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f8d274d3d00fde0800000000000000
+      internalID: -1301525735471738989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_30
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 399
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65874e44e8efd83a0800000000000000
+      internalID: -6661388386816460714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_31
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 399
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36bedf25ea8359e0800000000000000
+      internalID: -1633809522850089411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 335
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0f75f70d9e4c5c0800000000000000
+      internalID: -4195971871103520554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_33
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 335
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ca5c3ce0670a7c0800000000000000
+      internalID: -4062117058102055835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_34
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 335
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35c427b011efc860800000000000000
+      internalID: 7552502562031977788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_35
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 335
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e44483eb68e8d710800000000000000
+      internalID: 1718378807918085349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_36
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 335
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4d53e6bd0516c90800000000000000
+      internalID: -7178367427674778396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_37
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 335
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5627ba576619e1250800000000000000
+      internalID: 5917326829658272357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_38
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 335
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff2a3de9ab931650800000000000000
+      internalID: 6202472265951096822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_39
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 335
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c637862a59e95bdf0800000000000000
+      internalID: -165051445817085076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_40
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 271
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725a2aac125e935c0800000000000000
+      internalID: -4235102041268902617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_41
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 271
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1df8071c26f99690800000000000000
+      internalID: -7594768627358171878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_42
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 271
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a802347fc82e0f0800000000000000
+      internalID: -1089153166259221942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_43
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 271
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d66590dfb438a200800000000000000
+      internalID: 191460982606096082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_44
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 271
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb407432e34f066f0800000000000000
+      internalID: -693285794898049860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_45
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 271
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4587f6022b89a6220800000000000000
+      internalID: 2479962435636656212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_46
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 271
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bda18032c7cf8ad0800000000000000
+      internalID: -2697718014920249936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_47
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 271
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0087de1acc922fa60800000000000000
+      internalID: 7706267871251101696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_48
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 207
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421a933dffa2fc2f0800000000000000
+      internalID: -950493718103088860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_49
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 207
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1160f9e7dc4b5c340800000000000000
+      internalID: 4883508165638817297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_50
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 207
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb5f5f3fa3d0a7c0800000000000000
+      internalID: -4062014114252235784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_51
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 207
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc93aa7627e18f30800000000000000
+      internalID: 4576192848837450955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_52
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 207
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467ac425b6f229540800000000000000
+      internalID: 5013121473205544804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_53
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 207
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d99cbe770d38de10800000000000000
+      internalID: 2222593518507694552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_54
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 207
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f061a391a368e680800000000000000
+      internalID: -8725614732412624652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_55
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 207
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634b6f4fc0fdb20c0800000000000000
+      internalID: -4599337347686419402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_56
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 143
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce6a6ef419367c40800000000000000
+      internalID: 5509653956464897734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_57
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 143
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d1ff68c875a20f0800000000000000
+      internalID: -1141003294513095405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_58
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 143
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb229b8fb5757dd0800000000000000
+      internalID: -2488953753511515148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_59
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 143
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c13322b6a71bfef0800000000000000
+      internalID: -73438964200820281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_60
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 143
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855acca3ab6447f50800000000000000
+      internalID: 6878200296565941592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_61
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 143
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1930f5750d6e030800000000000000
+      internalID: 3523732832138793438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_62
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 143
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c5160b665200c90800000000000000
+      internalID: -7205718280816730990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_63
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 143
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14909ca572c463940800000000000000
+      internalID: 5275487745421674817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_64
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 79
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d00cf7bedbfdd40800000000000000
+      internalID: 5611412479885184292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_65
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 79
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c257fa929fb2b01e0800000000000000
+      internalID: -2230640841285733076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_66
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 79
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4bb9e83f3f458e0800000000000000
+      internalID: -1705470131471403804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_67
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 79
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec5882cbc1d95c00800000000000000
+      internalID: 889973074454666477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_68
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 79
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d5bf7d63bc40aa0800000000000000
+      internalID: -6195603750942712475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_69
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 79
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efde694125428f20800000000000000
+      internalID: 3423374676023238633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_70
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 79
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452bfbb0f8af6a130800000000000000
+      internalID: 3577822446276817492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_71
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 79
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c25d73aa4ed06a0800000000000000
+      internalID: -6481272868983985013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Lollipop Right_72
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 15
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1f64de117b447f0800000000000000
+      internalID: -629176760301850195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

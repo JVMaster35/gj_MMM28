@@ -1,0 +1,3281 @@
+fileFormatVersion: 2
+guid: 40f399a18d8ba8346acd6899fe0d9c6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3272419747561491233
+    second: Nintendo Switch - Octopath Traveler - Gareth_0
+  - first:
+      213: -5355354621900052333
+    second: Nintendo Switch - Octopath Traveler - Gareth_1
+  - first:
+      213: -3631524339108577695
+    second: Nintendo Switch - Octopath Traveler - Gareth_2
+  - first:
+      213: 7191488506081597914
+    second: Nintendo Switch - Octopath Traveler - Gareth_3
+  - first:
+      213: 5554321861540229675
+    second: Nintendo Switch - Octopath Traveler - Gareth_4
+  - first:
+      213: 6095704146875391229
+    second: Nintendo Switch - Octopath Traveler - Gareth_5
+  - first:
+      213: -5937457242527162862
+    second: Nintendo Switch - Octopath Traveler - Gareth_6
+  - first:
+      213: -129776039279290362
+    second: Nintendo Switch - Octopath Traveler - Gareth_7
+  - first:
+      213: -4561993992158675256
+    second: Nintendo Switch - Octopath Traveler - Gareth_8
+  - first:
+      213: 674497467732747593
+    second: Nintendo Switch - Octopath Traveler - Gareth_9
+  - first:
+      213: -5415978046804132767
+    second: Nintendo Switch - Octopath Traveler - Gareth_10
+  - first:
+      213: -541884204056931242
+    second: Nintendo Switch - Octopath Traveler - Gareth_11
+  - first:
+      213: 2560243370224778730
+    second: Nintendo Switch - Octopath Traveler - Gareth_12
+  - first:
+      213: -7170848817610909893
+    second: Nintendo Switch - Octopath Traveler - Gareth_13
+  - first:
+      213: 5389424256866159025
+    second: Nintendo Switch - Octopath Traveler - Gareth_14
+  - first:
+      213: 7157349779008576614
+    second: Nintendo Switch - Octopath Traveler - Gareth_15
+  - first:
+      213: 4041313351350995561
+    second: Nintendo Switch - Octopath Traveler - Gareth_16
+  - first:
+      213: -6469953494995278754
+    second: Nintendo Switch - Octopath Traveler - Gareth_17
+  - first:
+      213: -7621187746522875335
+    second: Nintendo Switch - Octopath Traveler - Gareth_18
+  - first:
+      213: -8927442861829435960
+    second: Nintendo Switch - Octopath Traveler - Gareth_19
+  - first:
+      213: 2434412203089010094
+    second: Nintendo Switch - Octopath Traveler - Gareth_20
+  - first:
+      213: -4963620476876666278
+    second: Nintendo Switch - Octopath Traveler - Gareth_21
+  - first:
+      213: -1630125832446831286
+    second: Nintendo Switch - Octopath Traveler - Gareth_22
+  - first:
+      213: 8183564409238386760
+    second: Nintendo Switch - Octopath Traveler - Gareth_23
+  - first:
+      213: 5905899696814164398
+    second: Nintendo Switch - Octopath Traveler - Gareth_24
+  - first:
+      213: 1985218872633261063
+    second: Nintendo Switch - Octopath Traveler - Gareth_25
+  - first:
+      213: -4889271697291874793
+    second: Nintendo Switch - Octopath Traveler - Gareth_26
+  - first:
+      213: 5430963021347887541
+    second: Nintendo Switch - Octopath Traveler - Gareth_27
+  - first:
+      213: -6293175206866872203
+    second: Nintendo Switch - Octopath Traveler - Gareth_28
+  - first:
+      213: -2328270042158373855
+    second: Nintendo Switch - Octopath Traveler - Gareth_29
+  - first:
+      213: 1197128393858903458
+    second: Nintendo Switch - Octopath Traveler - Gareth_30
+  - first:
+      213: 1837422935864418336
+    second: Nintendo Switch - Octopath Traveler - Gareth_31
+  - first:
+      213: 3035407246651560228
+    second: Nintendo Switch - Octopath Traveler - Gareth_32
+  - first:
+      213: 5075296500586963122
+    second: Nintendo Switch - Octopath Traveler - Gareth_33
+  - first:
+      213: 6710165632045160323
+    second: Nintendo Switch - Octopath Traveler - Gareth_34
+  - first:
+      213: -4464841212875787684
+    second: Nintendo Switch - Octopath Traveler - Gareth_35
+  - first:
+      213: 7068124175907513153
+    second: Nintendo Switch - Octopath Traveler - Gareth_36
+  - first:
+      213: 1521784155792620209
+    second: Nintendo Switch - Octopath Traveler - Gareth_37
+  - first:
+      213: -2906748239235214593
+    second: Nintendo Switch - Octopath Traveler - Gareth_38
+  - first:
+      213: -6690757839791779882
+    second: Nintendo Switch - Octopath Traveler - Gareth_39
+  - first:
+      213: -2994300409193725746
+    second: Nintendo Switch - Octopath Traveler - Gareth_40
+  - first:
+      213: -1315767871814565048
+    second: Nintendo Switch - Octopath Traveler - Gareth_41
+  - first:
+      213: -9184973179881489622
+    second: Nintendo Switch - Octopath Traveler - Gareth_42
+  - first:
+      213: -2955452497056073987
+    second: Nintendo Switch - Octopath Traveler - Gareth_43
+  - first:
+      213: -6906810126626730657
+    second: Nintendo Switch - Octopath Traveler - Gareth_44
+  - first:
+      213: 2661660075471998948
+    second: Nintendo Switch - Octopath Traveler - Gareth_45
+  - first:
+      213: -2631584896648968547
+    second: Nintendo Switch - Octopath Traveler - Gareth_46
+  - first:
+      213: -2922338594957777416
+    second: Nintendo Switch - Octopath Traveler - Gareth_47
+  - first:
+      213: -5397817948946999942
+    second: Nintendo Switch - Octopath Traveler - Gareth_48
+  - first:
+      213: 188918491077357536
+    second: Nintendo Switch - Octopath Traveler - Gareth_49
+  - first:
+      213: 26076756453748115
+    second: Nintendo Switch - Octopath Traveler - Gareth_50
+  - first:
+      213: -2091084750271632153
+    second: Nintendo Switch - Octopath Traveler - Gareth_51
+  - first:
+      213: -5687366049269066822
+    second: Nintendo Switch - Octopath Traveler - Gareth_52
+  - first:
+      213: -8710868769131302061
+    second: Nintendo Switch - Octopath Traveler - Gareth_53
+  - first:
+      213: -8413737924289447670
+    second: Nintendo Switch - Octopath Traveler - Gareth_54
+  - first:
+      213: -6424806691770220235
+    second: Nintendo Switch - Octopath Traveler - Gareth_55
+  - first:
+      213: 8221592797843421307
+    second: Nintendo Switch - Octopath Traveler - Gareth_56
+  - first:
+      213: 7759336435684315649
+    second: Nintendo Switch - Octopath Traveler - Gareth_57
+  - first:
+      213: -6277236947482793352
+    second: Nintendo Switch - Octopath Traveler - Gareth_58
+  - first:
+      213: -4437555404124385996
+    second: Nintendo Switch - Octopath Traveler - Gareth_59
+  - first:
+      213: -4856698516899163928
+    second: Nintendo Switch - Octopath Traveler - Gareth_60
+  - first:
+      213: -2013402654461322356
+    second: Nintendo Switch - Octopath Traveler - Gareth_61
+  - first:
+      213: 3437488359961295399
+    second: Nintendo Switch - Octopath Traveler - Gareth_62
+  - first:
+      213: 99504245952318533
+    second: Nintendo Switch - Octopath Traveler - Gareth_63
+  - first:
+      213: 1202162679224265621
+    second: Nintendo Switch - Octopath Traveler - Gareth_64
+  - first:
+      213: -9197491839840462759
+    second: Nintendo Switch - Octopath Traveler - Gareth_65
+  - first:
+      213: 2567764931407499226
+    second: Nintendo Switch - Octopath Traveler - Gareth_66
+  - first:
+      213: -1120814840305331611
+    second: Nintendo Switch - Octopath Traveler - Gareth_67
+  - first:
+      213: 4136011558985983225
+    second: Nintendo Switch - Octopath Traveler - Gareth_68
+  - first:
+      213: -8834059499610408393
+    second: Nintendo Switch - Octopath Traveler - Gareth_69
+  - first:
+      213: -2559814531301574027
+    second: Nintendo Switch - Octopath Traveler - Gareth_70
+  - first:
+      213: 1068454056404129883
+    second: Nintendo Switch - Octopath Traveler - Gareth_71
+  - first:
+      213: -4703433964610439673
+    second: Nintendo Switch - Octopath Traveler - Gareth_72
+  - first:
+      213: -8116154858849074797
+    second: Nintendo Switch - Octopath Traveler - Gareth_73
+  - first:
+      213: -211395624522464664
+    second: Nintendo Switch - Octopath Traveler - Gareth_74
+  - first:
+      213: 1712339989904937366
+    second: Nintendo Switch - Octopath Traveler - Gareth_75
+  - first:
+      213: -2678972409709969740
+    second: Nintendo Switch - Octopath Traveler - Gareth_76
+  - first:
+      213: 1510059627889492069
+    second: Nintendo Switch - Octopath Traveler - Gareth_77
+  - first:
+      213: 7925864080177907006
+    second: Nintendo Switch - Octopath Traveler - Gareth_78
+  - first:
+      213: -8952052992397384082
+    second: Nintendo Switch - Octopath Traveler - Gareth_79
+  - first:
+      213: -5803547430109699382
+    second: Nintendo Switch - Octopath Traveler - Gareth_80
+  - first:
+      213: -1163868569198943473
+    second: Nintendo Switch - Octopath Traveler - Gareth_81
+  - first:
+      213: -1053297279253791014
+    second: Nintendo Switch - Octopath Traveler - Gareth_82
+  - first:
+      213: 6399371252829122927
+    second: Nintendo Switch - Octopath Traveler - Gareth_83
+  - first:
+      213: -314124002560360854
+    second: Nintendo Switch - Octopath Traveler - Gareth_84
+  - first:
+      213: -6478919926039514885
+    second: Nintendo Switch - Octopath Traveler - Gareth_85
+  - first:
+      213: -3602724820536011840
+    second: Nintendo Switch - Octopath Traveler - Gareth_86
+  - first:
+      213: -292520089878047762
+    second: Nintendo Switch - Octopath Traveler - Gareth_87
+  - first:
+      213: 2326820270574323532
+    second: Nintendo Switch - Octopath Traveler - Gareth_88
+  - first:
+      213: 8818552199922903759
+    second: Nintendo Switch - Octopath Traveler - Gareth_89
+  - first:
+      213: 3681054189119792866
+    second: Nintendo Switch - Octopath Traveler - Gareth_90
+  - first:
+      213: -8278199184880852617
+    second: Nintendo Switch - Octopath Traveler - Gareth_91
+  - first:
+      213: 7833681988176920060
+    second: Nintendo Switch - Octopath Traveler - Gareth_92
+  - first:
+      213: 3105619006571620783
+    second: Nintendo Switch - Octopath Traveler - Gareth_93
+  - first:
+      213: -5801029279784283573
+    second: Nintendo Switch - Octopath Traveler - Gareth_94
+  - first:
+      213: 4272772691766600038
+    second: Nintendo Switch - Octopath Traveler - Gareth_95
+  - first:
+      213: -1681027460630938650
+    second: Nintendo Switch - Octopath Traveler - Gareth_96
+  - first:
+      213: 6042784477917672343
+    second: Nintendo Switch - Octopath Traveler - Gareth_97
+  - first:
+      213: 4135562366354238548
+    second: Nintendo Switch - Octopath Traveler - Gareth_98
+  - first:
+      213: 7028309497821501319
+    second: Nintendo Switch - Octopath Traveler - Gareth_99
+  - first:
+      213: 3763939904437703580
+    second: Nintendo Switch - Octopath Traveler - Gareth_100
+  - first:
+      213: -4292379767675223529
+    second: Nintendo Switch - Octopath Traveler - Gareth_101
+  - first:
+      213: -6452857341009531607
+    second: Nintendo Switch - Octopath Traveler - Gareth_102
+  - first:
+      213: -2275614787789581565
+    second: Nintendo Switch - Octopath Traveler - Gareth_103
+  - first:
+      213: 4700259217547105348
+    second: Nintendo Switch - Octopath Traveler - Gareth_104
+  - first:
+      213: -5782454495219247073
+    second: Nintendo Switch - Octopath Traveler - Gareth_105
+  - first:
+      213: -6351707224026822875
+    second: Nintendo Switch - Octopath Traveler - Gareth_106
+  - first:
+      213: -4010222762777709139
+    second: Nintendo Switch - Octopath Traveler - Gareth_107
+  - first:
+      213: 6489072761743854054
+    second: Nintendo Switch - Octopath Traveler - Gareth_108
+  - first:
+      213: 3157722233431441114
+    second: Nintendo Switch - Octopath Traveler - Gareth_109
+  - first:
+      213: 5694723510580863587
+    second: Nintendo Switch - Octopath Traveler - Gareth_110
+  - first:
+      213: 5121335840166616072
+    second: Nintendo Switch - Octopath Traveler - Gareth_111
+  - first:
+      213: 9136810457192543166
+    second: Nintendo Switch - Octopath Traveler - Gareth_112
+  - first:
+      213: -711457620479034757
+    second: Nintendo Switch - Octopath Traveler - Gareth_113
+  - first:
+      213: -6257249635542925472
+    second: Nintendo Switch - Octopath Traveler - Gareth_114
+  - first:
+      213: -4996622456401893300
+    second: Nintendo Switch - Octopath Traveler - Gareth_115
+  - first:
+      213: -6750382637697146477
+    second: Nintendo Switch - Octopath Traveler - Gareth_116
+  - first:
+      213: -8785684379556357512
+    second: Nintendo Switch - Octopath Traveler - Gareth_117
+  - first:
+      213: -8393213294030330982
+    second: Nintendo Switch - Octopath Traveler - Gareth_118
+  - first:
+      213: 8831457555380128384
+    second: Nintendo Switch - Octopath Traveler - Gareth_119
+  - first:
+      213: 8165562309774827544
+    second: Nintendo Switch - Octopath Traveler - Gareth_120
+  - first:
+      213: -3590931133981617673
+    second: Nintendo Switch - Octopath Traveler - Gareth_121
+  - first:
+      213: 6097082228851837681
+    second: Nintendo Switch - Octopath Traveler - Gareth_122
+  - first:
+      213: 3507248922958443915
+    second: Nintendo Switch - Octopath Traveler - Gareth_123
+  - first:
+      213: 8382964076006515778
+    second: Nintendo Switch - Octopath Traveler - Gareth_124
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 220
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b40612c68f96d20800000000000000
+      internalID: 3272419747561491233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 220
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398a6636855fda5b0800000000000000
+      internalID: -5355354621900052333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 220
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e7f3eaadb3a9dc0800000000000000
+      internalID: -3631524339108577695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 220
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad95c43b1bc4dc360800000000000000
+      internalID: 7191488506081597914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 227
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22ba451e4ae41d40800000000000000
+      internalID: 5554321861540229675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_5
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 227
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc126a00aa489450800000000000000
+      internalID: 6095704146875391229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 227
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e191e881ae99da0800000000000000
+      internalID: -5937457242527162862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 227
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608966e3161f23ef0800000000000000
+      internalID: -129776039279290362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_8
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 222
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce7ae572aa80b0c0800000000000000
+      internalID: -4561993992158675256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_9
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 224
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9456c1e8fdb4c5900800000000000000
+      internalID: 674497467732747593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_10
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 224
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cfce859a496d4b0800000000000000
+      internalID: -5415978046804132767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_11
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 225
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6549acbff27da78f0800000000000000
+      internalID: -541884204056931242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_12
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 222
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedfbccc7cfc78320800000000000000
+      internalID: 2560243370224778730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 222
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3795404ef60c7c90800000000000000
+      internalID: -7170848817610909893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_14
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 224
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b98166aec41bca40800000000000000
+      internalID: 5389424256866159025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_15
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 224
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cd607e3b3045360800000000000000
+      internalID: 7157349779008576614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_16
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 225
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ac15dc411a51830800000000000000
+      internalID: 4041313351350995561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_17
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 222
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e546289539b1636a0800000000000000
+      internalID: -6469953494995278754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_18
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 221
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ab1f19f1a1c3690800000000000000
+      internalID: -7621187746522875335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_19
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 222
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd4f0c440a5b1480800000000000000
+      internalID: -8927442861829435960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_20
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 222
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead1ff92005c8c120800000000000000
+      internalID: 2434412203089010094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_21
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 221
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a49e3897dad1bb0800000000000000
+      internalID: -4963620476876666278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_22
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 222
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4591d13131a069e0800000000000000
+      internalID: -1630125832446831286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_23
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 222
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848fe29c87cd19170800000000000000
+      internalID: 8183564409238386760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_24
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 220
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea902b3cb78f5f150800000000000000
+      internalID: 5905899696814164398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_25
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 221
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cf4b8eb0aec8b10800000000000000
+      internalID: 1985218872633261063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 187
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71eeb88bb41d52cb0800000000000000
+      internalID: -4889271697291874793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_27
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 187
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b919bbe718ae5b40800000000000000
+      internalID: 5430963021347887541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_28
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 187
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5789765fd762aa8a0800000000000000
+      internalID: -6293175206866872203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_29
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 187
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12467fb7bb250bfd0800000000000000
+      internalID: -2328270042158373855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_30
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 186
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad6e7a7eed0d9010800000000000000
+      internalID: 1197128393858903458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_31
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 185
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020aa52dc66df7910800000000000000
+      internalID: 1837422935864418336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_32
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 186
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421105dfeceef1a20800000000000000
+      internalID: 3035407246651560228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_33
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 187
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0e447f6431f6640800000000000000
+      internalID: 5075296500586963122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_34
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 187
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3871612271c4f1d50800000000000000
+      internalID: 6710165632045160323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_35
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 187
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52b3089292b902c0800000000000000
+      internalID: -4464841212875787684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_36
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 187
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143615d4d75071260800000000000000
+      internalID: 7068124175907513153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_37
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 186
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba36de70a67e1510800000000000000
+      internalID: 1521784155792620209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_38
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 185
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff294e480e729a7d0800000000000000
+      internalID: -2906748239235214593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_39
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 186
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df0d01a137a523a0800000000000000
+      internalID: -6690757839791779882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_40
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 187
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0833f64ab1276d0800000000000000
+      internalID: -2994300409193725746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_41
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 187
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8430f9187147dbde0800000000000000
+      internalID: -1315767871814565048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_42
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 185
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b7ca59e8b688080800000000000000
+      internalID: -9184973179881489622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_43
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 186
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df67e62dc9f1cf6d0800000000000000
+      internalID: -2955452497056073987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_44
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 187
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5dc75f98c41620a0800000000000000
+      internalID: -6906810126626730657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_45
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 187
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef095f8cbd10f420800000000000000
+      internalID: 2661660075471998948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_46
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 188
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9684feaa7bba7bd0800000000000000
+      internalID: -2631584896648968547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 153
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5a026f784c177d0800000000000000
+      internalID: -2922338594957777416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_48
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 153
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7559ce9c291715b0800000000000000
+      internalID: -5397817948946999942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 153
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef2b20ed5c2f9200800000000000000
+      internalID: 188918491077357536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_50
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 150
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39de15dfba4ac5000800000000000000
+      internalID: 26076756453748115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_51
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 150
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eca2d8af79faf2e0800000000000000
+      internalID: -2091084750271632153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_52
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 150
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab353bd06ba6211b0800000000000000
+      internalID: -5687366049269066822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_53
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 150
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35372e2b107cc1780800000000000000
+      internalID: -8710868769131302061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_54
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 150
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09be7d8fe56c3b80800000000000000
+      internalID: -8413737924289447670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_55
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 150
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531cb7a9a5086d6a0800000000000000
+      internalID: -6424806691770220235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_56
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 150
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78fd5bf617f81270800000000000000
+      internalID: 8221592797843421307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_57
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 150
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10295b5a063beab60800000000000000
+      internalID: 7759336435684315649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_58
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 150
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87aa4562146c2e8a0800000000000000
+      internalID: -6277236947482793352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_59
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 150
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d0d020fd2aa62c0800000000000000
+      internalID: -4437555404124385996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_60
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 150
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e01f074e6a899cb0800000000000000
+      internalID: -4856698516899163928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_61
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 150
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b110704f4fe04e0800000000000000
+      internalID: -2013402654461322356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_62
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 151
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a7807637964bf20800000000000000
+      internalID: 3437488359961295399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_63
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 151
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c81a1a592816100800000000000000
+      internalID: 99504245952318533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_64
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 151
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59be4616690fea010800000000000000
+      internalID: 1202162679224265621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_65
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 151
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95851cde6e1fb5080800000000000000
+      internalID: -9197491839840462759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_66
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 150
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfcf3bb99882a320800000000000000
+      internalID: 2567764931407499226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_67
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 150
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5625d9057d01270f0800000000000000
+      internalID: -1120814840305331611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_68
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 150
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4e4407990166930800000000000000
+      internalID: 4136011558985983225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_69
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 150
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a7e01a0bd176580800000000000000
+      internalID: -8834059499610408393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 115
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57af2ea0f36b97cd0800000000000000
+      internalID: -2559814531301574027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_71
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 115
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b581bcaad49e3de00800000000000000
+      internalID: 1068454056404129883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_72
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 134
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70633e2aabb0abeb0800000000000000
+      internalID: -4703433964610439673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_73
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 134
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3918d383820ad5f80800000000000000
+      internalID: -8116154858849074797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_74
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 115
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862444dacc8f01df0800000000000000
+      internalID: -211395624522464664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_75
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 115
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691daf0062473c710800000000000000
+      internalID: 1712339989904937366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_76
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 135
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be3a2489c062dad0800000000000000
+      internalID: -2678972409709969740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_77
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 135
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560030e1b3fc4f410800000000000000
+      internalID: 1510059627889492069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_78
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 117
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35480d43635efd60800000000000000
+      internalID: 7925864080177907006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_79
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 115
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e666ea1cb3be3c380800000000000000
+      internalID: -8952052992397384082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_80
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 114
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac22e2f5c58a57fa0800000000000000
+      internalID: -5803547430109699382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_81
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 116
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03a7a7e3bb19dfe0800000000000000
+      internalID: -1163868569198943473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_82
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 115
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade313384bfe161f0800000000000000
+      internalID: -1053297279253791014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 114
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61f9b6cf322fc850800000000000000
+      internalID: 6399371252829122927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_84
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 117
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e37fb42e104abf0800000000000000
+      internalID: -314124002560360854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_85
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 116
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0f63077a04616a0800000000000000
+      internalID: -6478919926039514885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_86
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 115
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3d7702ddc800ec0800000000000000
+      internalID: -3602724820536011840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_87
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 117
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee357213782c0fbf0800000000000000
+      internalID: -292520089878047762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_88
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 116
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47c2c345b68a4020800000000000000
+      internalID: 2326820270574323532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_89
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 115
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcae4adc08ac16a70800000000000000
+      internalID: 8818552199922903759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_90
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 116
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6e27d284bb51330800000000000000
+      internalID: 3681054189119792866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_91
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 115
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771af3d73bded1d80800000000000000
+      internalID: -8278199184880852617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_92
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 114
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd39ac7344d6bc60800000000000000
+      internalID: 7833681988176920060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_93
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 81
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9276e3800691b20800000000000000
+      internalID: 3105619006571620783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_94
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 80
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4251deea9a9e7fa0800000000000000
+      internalID: -5801029279784283573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_95
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 79
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661ecb20020fb4b30800000000000000
+      internalID: 4272772691766600038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_96
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 80
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb7a675e6acba8e0800000000000000
+      internalID: -1681027460630938650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_97
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 79
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793f68477784cd350800000000000000
+      internalID: 6042784477917672343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_98
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 78
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ca401af08746930800000000000000
+      internalID: 4135562366354238548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_99
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 81
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787972d2042998160800000000000000
+      internalID: 7028309497821501319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_100
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 80
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c935def96633c3430800000000000000
+      internalID: 3763939904437703580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 79
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71205a2e7576e64c0800000000000000
+      internalID: -4292379767675223529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_102
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 79
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92dead2ef68d276a0800000000000000
+      internalID: -6452857341009531607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_103
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 79
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3031d2048646b60e0800000000000000
+      internalID: -2275614787789581565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_104
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 79
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4449626fadcaa3140800000000000000
+      internalID: 4700259217547105348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_105
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 79
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18989af54890cfa0800000000000000
+      internalID: -5782454495219247073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_106
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 79
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527499abee33ad7a0800000000000000
+      internalID: -6351707224026822875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_107
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 79
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5f272f4a3d858c0800000000000000
+      internalID: -4010222762777709139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_108
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 79
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9c765db41dd0a50800000000000000
+      internalID: 6489072761743854054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_109
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 79
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adeb80714ab72db20800000000000000
+      internalID: 3157722233431441114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_110
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 79
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362ec366cd8b70f40800000000000000
+      internalID: 5694723510580863587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_111
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 79
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c9b9800d3a21740800000000000000
+      internalID: 5121335840166616072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_112
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 79
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb33901b3b87cce70800000000000000
+      internalID: 9136810457192543166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_113
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 80
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a3a9a40156026f0800000000000000
+      internalID: -711457620479034757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_114
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 79
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f758adb98c929a0800000000000000
+      internalID: -6257249635542925472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_115
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 79
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48ec61695e68aab0800000000000000
+      internalID: -4996622456401893300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_116
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 80
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391e81e81c2d152a0800000000000000
+      internalID: -6750382637697146477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_117
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 79
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a58d7fa9af21680800000000000000
+      internalID: -8785684379556357512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_118
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 79
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a936c3d6af0558b80800000000000000
+      internalID: -8393213294030330982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_119
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 80
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a4f550bd3af8a70800000000000000
+      internalID: 8831457555380128384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_120
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 43
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810627168a7e15170800000000000000
+      internalID: 8165562309774827544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_121
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 43
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f19222c8237a2ec0800000000000000
+      internalID: -3590931133981617673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_122
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 44
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa8f01cbff2d9450800000000000000
+      internalID: 6097082228851837681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_123
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 43
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b853fcf20504ca030800000000000000
+      internalID: 3507248922958443915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gareth_124
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 43
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244aa3b8965465470800000000000000
+      internalID: 8382964076006515778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

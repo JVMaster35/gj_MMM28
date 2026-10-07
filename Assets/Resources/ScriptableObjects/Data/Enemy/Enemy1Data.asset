@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fb8051c49888194ba8c15118d6cf584, type: 3}
+  m_Name: Enemy1Data
+  m_EditorClassIdentifier: 
+  maxHealth: 100
+  isShielded: 0
+  isBroken: 0
+  isHeavy: 0
+  maxShieldStr: 0
+  shieldRegenRate: 0
+  shieldReducution: 0
+  stunTime: 0
+  shieldType: 3
+  healthRegen: 0
+  regenTime: 0
+  offsetUI: {x: 0, y: 1.2, z: 0}
+  moveSpeed: 2
+  chargeTime: 2
+  chargeSpeed: 4
+  facingDirection: -1
+  isAffected: 1
+  playerDetected: 0
+  ledgeDistance: 1.5
+  obstacleDistance: 0.1
+  playerDetectDistance: 3
+  detectionPauseTime: 2
+  playerDetectedWaitTime: 1
+  attackDamage: 20
+  attackRate: 1
+  nextAttackTime: 1
+  attackRange: 0.75
+  knockBackForce: 2.5
+  knockBackAngle: {x: 2, y: 1}
+  damageType: 3
+  isShooter: 0
+  canShoot: 0
+  shotDamage: 0
+  shootRange: 0
+  rateOfFire: 0
+  shotType: 3
+  dodgeForce: 8
+  endDodgeForce: 5
+  endDodgeTime: 0.2
+  guardStr: 0
+  endGuardTime: 0
+  endTeleportTime: 0
+  teleportTime: 0
+  distanceDGT: 1
+  cooldownDGT: 1
+  teleportDis: {x: 0, y: 0}
+  dodgeAngle: {x: 2, y: 1}
+  canDodge: 1
+  canGuard: 0
+  canTeleport: 0
+  startDodge: 0
+  startGuard: 0
+  startTeleport: 0
+  endDodge: 0
+  endGuard: 0
+  endTeleport: 0
+  GroundLayer:
+    serializedVersion: 2
+    m_Bits: 72
+  HazardLayer:
+    serializedVersion: 2
+    m_Bits: 128
+  ObstacleLayer:
+    serializedVersion: 2
+    m_Bits: 8192
+  PlayerLayer:
+    serializedVersion: 2
+    m_Bits: 2048
+  DamagableLayers:
+    serializedVersion: 2
+    m_Bits: 10240

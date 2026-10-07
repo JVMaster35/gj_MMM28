@@ -1,0 +1,4056 @@
+fileFormatVersion: 2
+guid: 73e67b0e327b93b468c23396abfa8769
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2448877751619707078
+    second: Nintendo Switch - Octopath Traveler - Gaston_0
+  - first:
+      213: 2200550005308188635
+    second: Nintendo Switch - Octopath Traveler - Gaston_1
+  - first:
+      213: -5891095961824454643
+    second: Nintendo Switch - Octopath Traveler - Gaston_2
+  - first:
+      213: 7763796903398416032
+    second: Nintendo Switch - Octopath Traveler - Gaston_3
+  - first:
+      213: -5273386218363066719
+    second: Nintendo Switch - Octopath Traveler - Gaston_4
+  - first:
+      213: 5450906426519998439
+    second: Nintendo Switch - Octopath Traveler - Gaston_5
+  - first:
+      213: -6082273517192627365
+    second: Nintendo Switch - Octopath Traveler - Gaston_6
+  - first:
+      213: -5909557954843721922
+    second: Nintendo Switch - Octopath Traveler - Gaston_7
+  - first:
+      213: -8866515021250031269
+    second: Nintendo Switch - Octopath Traveler - Gaston_8
+  - first:
+      213: 1530067147631662285
+    second: Nintendo Switch - Octopath Traveler - Gaston_9
+  - first:
+      213: 3073227918209059667
+    second: Nintendo Switch - Octopath Traveler - Gaston_10
+  - first:
+      213: -3309421650605264427
+    second: Nintendo Switch - Octopath Traveler - Gaston_11
+  - first:
+      213: 4830271872526408032
+    second: Nintendo Switch - Octopath Traveler - Gaston_12
+  - first:
+      213: 6968736851264925186
+    second: Nintendo Switch - Octopath Traveler - Gaston_13
+  - first:
+      213: 8291757948566881000
+    second: Nintendo Switch - Octopath Traveler - Gaston_14
+  - first:
+      213: 1450144464715283772
+    second: Nintendo Switch - Octopath Traveler - Gaston_15
+  - first:
+      213: -6373904870809731510
+    second: Nintendo Switch - Octopath Traveler - Gaston_16
+  - first:
+      213: -1214212491565303918
+    second: Nintendo Switch - Octopath Traveler - Gaston_17
+  - first:
+      213: -1093006365037917791
+    second: Nintendo Switch - Octopath Traveler - Gaston_18
+  - first:
+      213: -6301535837449183316
+    second: Nintendo Switch - Octopath Traveler - Gaston_19
+  - first:
+      213: 2942175074050397701
+    second: Nintendo Switch - Octopath Traveler - Gaston_20
+  - first:
+      213: 864731990527760397
+    second: Nintendo Switch - Octopath Traveler - Gaston_21
+  - first:
+      213: 4917571469627123684
+    second: Nintendo Switch - Octopath Traveler - Gaston_22
+  - first:
+      213: -2756727788536678898
+    second: Nintendo Switch - Octopath Traveler - Gaston_23
+  - first:
+      213: 6579249964630320700
+    second: Nintendo Switch - Octopath Traveler - Gaston_24
+  - first:
+      213: -6979508729780992877
+    second: Nintendo Switch - Octopath Traveler - Gaston_25
+  - first:
+      213: -3102325429007133458
+    second: Nintendo Switch - Octopath Traveler - Gaston_26
+  - first:
+      213: 801285379891973521
+    second: Nintendo Switch - Octopath Traveler - Gaston_27
+  - first:
+      213: 7232642303397377064
+    second: Nintendo Switch - Octopath Traveler - Gaston_28
+  - first:
+      213: 7425694674865522249
+    second: Nintendo Switch - Octopath Traveler - Gaston_29
+  - first:
+      213: 4826228689620617587
+    second: Nintendo Switch - Octopath Traveler - Gaston_30
+  - first:
+      213: -8691115047110561502
+    second: Nintendo Switch - Octopath Traveler - Gaston_31
+  - first:
+      213: -1397130974197935012
+    second: Nintendo Switch - Octopath Traveler - Gaston_32
+  - first:
+      213: -3270093272489119404
+    second: Nintendo Switch - Octopath Traveler - Gaston_33
+  - first:
+      213: -4752141497437363694
+    second: Nintendo Switch - Octopath Traveler - Gaston_34
+  - first:
+      213: -4302929567940772460
+    second: Nintendo Switch - Octopath Traveler - Gaston_35
+  - first:
+      213: 2535755615223201916
+    second: Nintendo Switch - Octopath Traveler - Gaston_36
+  - first:
+      213: -2045700838780838264
+    second: Nintendo Switch - Octopath Traveler - Gaston_37
+  - first:
+      213: -6455802053962382203
+    second: Nintendo Switch - Octopath Traveler - Gaston_38
+  - first:
+      213: 3145811726702433124
+    second: Nintendo Switch - Octopath Traveler - Gaston_39
+  - first:
+      213: -4487984595501884893
+    second: Nintendo Switch - Octopath Traveler - Gaston_40
+  - first:
+      213: 1543518895194538681
+    second: Nintendo Switch - Octopath Traveler - Gaston_41
+  - first:
+      213: -2105241934963918120
+    second: Nintendo Switch - Octopath Traveler - Gaston_42
+  - first:
+      213: 5503478044366529131
+    second: Nintendo Switch - Octopath Traveler - Gaston_43
+  - first:
+      213: 3373178231135154261
+    second: Nintendo Switch - Octopath Traveler - Gaston_44
+  - first:
+      213: 8984754334290358897
+    second: Nintendo Switch - Octopath Traveler - Gaston_45
+  - first:
+      213: 7329943088582579350
+    second: Nintendo Switch - Octopath Traveler - Gaston_46
+  - first:
+      213: 7864557339240732878
+    second: Nintendo Switch - Octopath Traveler - Gaston_47
+  - first:
+      213: -7951296409833271590
+    second: Nintendo Switch - Octopath Traveler - Gaston_48
+  - first:
+      213: 6226860420736966178
+    second: Nintendo Switch - Octopath Traveler - Gaston_49
+  - first:
+      213: 6364243015484272845
+    second: Nintendo Switch - Octopath Traveler - Gaston_50
+  - first:
+      213: -484821076294005061
+    second: Nintendo Switch - Octopath Traveler - Gaston_51
+  - first:
+      213: 5797101431701601566
+    second: Nintendo Switch - Octopath Traveler - Gaston_52
+  - first:
+      213: 6246765884891200391
+    second: Nintendo Switch - Octopath Traveler - Gaston_53
+  - first:
+      213: 3051919466552714442
+    second: Nintendo Switch - Octopath Traveler - Gaston_54
+  - first:
+      213: 6871338873876282501
+    second: Nintendo Switch - Octopath Traveler - Gaston_55
+  - first:
+      213: 8805649058567492016
+    second: Nintendo Switch - Octopath Traveler - Gaston_56
+  - first:
+      213: 1657750250513671015
+    second: Nintendo Switch - Octopath Traveler - Gaston_57
+  - first:
+      213: -6581268409298175627
+    second: Nintendo Switch - Octopath Traveler - Gaston_58
+  - first:
+      213: 1779679139143371407
+    second: Nintendo Switch - Octopath Traveler - Gaston_59
+  - first:
+      213: 6513542840260518452
+    second: Nintendo Switch - Octopath Traveler - Gaston_60
+  - first:
+      213: -5981097073480780961
+    second: Nintendo Switch - Octopath Traveler - Gaston_61
+  - first:
+      213: -7640612823314306155
+    second: Nintendo Switch - Octopath Traveler - Gaston_62
+  - first:
+      213: -4332842725940594208
+    second: Nintendo Switch - Octopath Traveler - Gaston_63
+  - first:
+      213: -799626582322998392
+    second: Nintendo Switch - Octopath Traveler - Gaston_64
+  - first:
+      213: 1866275234059465799
+    second: Nintendo Switch - Octopath Traveler - Gaston_65
+  - first:
+      213: 7158219321426370895
+    second: Nintendo Switch - Octopath Traveler - Gaston_66
+  - first:
+      213: 6968132486212570248
+    second: Nintendo Switch - Octopath Traveler - Gaston_67
+  - first:
+      213: 1325699454675325433
+    second: Nintendo Switch - Octopath Traveler - Gaston_68
+  - first:
+      213: 6448177044330348299
+    second: Nintendo Switch - Octopath Traveler - Gaston_69
+  - first:
+      213: -8833892641906797173
+    second: Nintendo Switch - Octopath Traveler - Gaston_70
+  - first:
+      213: -974343151238648042
+    second: Nintendo Switch - Octopath Traveler - Gaston_71
+  - first:
+      213: -7842838389121658162
+    second: Nintendo Switch - Octopath Traveler - Gaston_72
+  - first:
+      213: -6328969588371363330
+    second: Nintendo Switch - Octopath Traveler - Gaston_73
+  - first:
+      213: -7731045552530259411
+    second: Nintendo Switch - Octopath Traveler - Gaston_74
+  - first:
+      213: -4360373516058559295
+    second: Nintendo Switch - Octopath Traveler - Gaston_75
+  - first:
+      213: -5933096207733831968
+    second: Nintendo Switch - Octopath Traveler - Gaston_76
+  - first:
+      213: -4055871419354216957
+    second: Nintendo Switch - Octopath Traveler - Gaston_77
+  - first:
+      213: -5912693185718398240
+    second: Nintendo Switch - Octopath Traveler - Gaston_78
+  - first:
+      213: 5031373122824343524
+    second: Nintendo Switch - Octopath Traveler - Gaston_79
+  - first:
+      213: -6522057373917670151
+    second: Nintendo Switch - Octopath Traveler - Gaston_80
+  - first:
+      213: -418738291706795274
+    second: Nintendo Switch - Octopath Traveler - Gaston_81
+  - first:
+      213: 4221214819882753699
+    second: Nintendo Switch - Octopath Traveler - Gaston_82
+  - first:
+      213: -5051494324951181604
+    second: Nintendo Switch - Octopath Traveler - Gaston_83
+  - first:
+      213: 1203120350216092106
+    second: Nintendo Switch - Octopath Traveler - Gaston_84
+  - first:
+      213: -536979110644945194
+    second: Nintendo Switch - Octopath Traveler - Gaston_85
+  - first:
+      213: -5152658898375308010
+    second: Nintendo Switch - Octopath Traveler - Gaston_86
+  - first:
+      213: 1723283131911825820
+    second: Nintendo Switch - Octopath Traveler - Gaston_87
+  - first:
+      213: 6572275140542222375
+    second: Nintendo Switch - Octopath Traveler - Gaston_88
+  - first:
+      213: -1266843531952027466
+    second: Nintendo Switch - Octopath Traveler - Gaston_89
+  - first:
+      213: -8391038670041590109
+    second: Nintendo Switch - Octopath Traveler - Gaston_90
+  - first:
+      213: -6557280453152140995
+    second: Nintendo Switch - Octopath Traveler - Gaston_91
+  - first:
+      213: 1188482996371320199
+    second: Nintendo Switch - Octopath Traveler - Gaston_92
+  - first:
+      213: -7129841177451991323
+    second: Nintendo Switch - Octopath Traveler - Gaston_93
+  - first:
+      213: -4691262594406887848
+    second: Nintendo Switch - Octopath Traveler - Gaston_94
+  - first:
+      213: 1514305987222878700
+    second: Nintendo Switch - Octopath Traveler - Gaston_95
+  - first:
+      213: -5299251927779791582
+    second: Nintendo Switch - Octopath Traveler - Gaston_96
+  - first:
+      213: 8088858286577212795
+    second: Nintendo Switch - Octopath Traveler - Gaston_97
+  - first:
+      213: 961182269363973180
+    second: Nintendo Switch - Octopath Traveler - Gaston_98
+  - first:
+      213: -1873238297319059702
+    second: Nintendo Switch - Octopath Traveler - Gaston_99
+  - first:
+      213: 1641240985669981023
+    second: Nintendo Switch - Octopath Traveler - Gaston_100
+  - first:
+      213: -2275605468747607297
+    second: Nintendo Switch - Octopath Traveler - Gaston_101
+  - first:
+      213: 7417826533100006538
+    second: Nintendo Switch - Octopath Traveler - Gaston_102
+  - first:
+      213: 5865692059980086456
+    second: Nintendo Switch - Octopath Traveler - Gaston_103
+  - first:
+      213: 8743022614641759776
+    second: Nintendo Switch - Octopath Traveler - Gaston_104
+  - first:
+      213: 3413774490524056894
+    second: Nintendo Switch - Octopath Traveler - Gaston_105
+  - first:
+      213: 1347390999299752030
+    second: Nintendo Switch - Octopath Traveler - Gaston_106
+  - first:
+      213: 3643368616637972795
+    second: Nintendo Switch - Octopath Traveler - Gaston_107
+  - first:
+      213: 9220741637122226056
+    second: Nintendo Switch - Octopath Traveler - Gaston_108
+  - first:
+      213: 5835742352446120702
+    second: Nintendo Switch - Octopath Traveler - Gaston_109
+  - first:
+      213: -376781293307645924
+    second: Nintendo Switch - Octopath Traveler - Gaston_110
+  - first:
+      213: -1024960915939356634
+    second: Nintendo Switch - Octopath Traveler - Gaston_111
+  - first:
+      213: -4810033375994565076
+    second: Nintendo Switch - Octopath Traveler - Gaston_112
+  - first:
+      213: 6807343588254485872
+    second: Nintendo Switch - Octopath Traveler - Gaston_113
+  - first:
+      213: -9007815300508813362
+    second: Nintendo Switch - Octopath Traveler - Gaston_114
+  - first:
+      213: 749976586251559521
+    second: Nintendo Switch - Octopath Traveler - Gaston_115
+  - first:
+      213: 2004039453024487958
+    second: Nintendo Switch - Octopath Traveler - Gaston_116
+  - first:
+      213: 6642562871709169869
+    second: Nintendo Switch - Octopath Traveler - Gaston_117
+  - first:
+      213: 5060786022309430894
+    second: Nintendo Switch - Octopath Traveler - Gaston_118
+  - first:
+      213: 299199426700201286
+    second: Nintendo Switch - Octopath Traveler - Gaston_119
+  - first:
+      213: -3311670559596719955
+    second: Nintendo Switch - Octopath Traveler - Gaston_120
+  - first:
+      213: 4747923831381986089
+    second: Nintendo Switch - Octopath Traveler - Gaston_121
+  - first:
+      213: 3655645303437414740
+    second: Nintendo Switch - Octopath Traveler - Gaston_122
+  - first:
+      213: -1273061354601066492
+    second: Nintendo Switch - Octopath Traveler - Gaston_123
+  - first:
+      213: -6441621768624869837
+    second: Nintendo Switch - Octopath Traveler - Gaston_124
+  - first:
+      213: -6986839577396648369
+    second: Nintendo Switch - Octopath Traveler - Gaston_125
+  - first:
+      213: -463663891527813728
+    second: Nintendo Switch - Octopath Traveler - Gaston_126
+  - first:
+      213: -3960262908747211339
+    second: Nintendo Switch - Octopath Traveler - Gaston_127
+  - first:
+      213: -2860914189754634494
+    second: Nintendo Switch - Octopath Traveler - Gaston_128
+  - first:
+      213: -3442831340543356378
+    second: Nintendo Switch - Octopath Traveler - Gaston_129
+  - first:
+      213: -655784817859818647
+    second: Nintendo Switch - Octopath Traveler - Gaston_130
+  - first:
+      213: 7595186070735564666
+    second: Nintendo Switch - Octopath Traveler - Gaston_131
+  - first:
+      213: 7652526646192513662
+    second: Nintendo Switch - Octopath Traveler - Gaston_132
+  - first:
+      213: 3850585472994301400
+    second: Nintendo Switch - Octopath Traveler - Gaston_133
+  - first:
+      213: 2346538627955844456
+    second: Nintendo Switch - Octopath Traveler - Gaston_134
+  - first:
+      213: -728527956745012288
+    second: Nintendo Switch - Octopath Traveler - Gaston_135
+  - first:
+      213: -3795607317212650111
+    second: Nintendo Switch - Octopath Traveler - Gaston_136
+  - first:
+      213: 6962965750705632225
+    second: Nintendo Switch - Octopath Traveler - Gaston_137
+  - first:
+      213: -7436025868890527608
+    second: Nintendo Switch - Octopath Traveler - Gaston_138
+  - first:
+      213: 609474689310610901
+    second: Nintendo Switch - Octopath Traveler - Gaston_139
+  - first:
+      213: -930757322937462849
+    second: Nintendo Switch - Octopath Traveler - Gaston_140
+  - first:
+      213: 7301599909399162091
+    second: Nintendo Switch - Octopath Traveler - Gaston_141
+  - first:
+      213: 3651702864846662823
+    second: Nintendo Switch - Octopath Traveler - Gaston_142
+  - first:
+      213: -6990728214362547152
+    second: Nintendo Switch - Octopath Traveler - Gaston_143
+  - first:
+      213: -4879736184543705419
+    second: Nintendo Switch - Octopath Traveler - Gaston_144
+  - first:
+      213: -3209258177629845186
+    second: Nintendo Switch - Octopath Traveler - Gaston_145
+  - first:
+      213: -627486188899981592
+    second: Nintendo Switch - Octopath Traveler - Gaston_146
+  - first:
+      213: 4605781351888378316
+    second: Nintendo Switch - Octopath Traveler - Gaston_147
+  - first:
+      213: -5612222028269334940
+    second: Nintendo Switch - Octopath Traveler - Gaston_148
+  - first:
+      213: 388208022790350536
+    second: Nintendo Switch - Octopath Traveler - Gaston_149
+  - first:
+      213: 5179831426915220055
+    second: Nintendo Switch - Octopath Traveler - Gaston_150
+  - first:
+      213: -7015201696211028905
+    second: Nintendo Switch - Octopath Traveler - Gaston_151
+  - first:
+      213: 5162257370875981128
+    second: Nintendo Switch - Octopath Traveler - Gaston_152
+  - first:
+      213: -3876909111126969712
+    second: Nintendo Switch - Octopath Traveler - Gaston_153
+  - first:
+      213: 5837499931780855546
+    second: Nintendo Switch - Octopath Traveler - Gaston_154
+  - first:
+      213: 5386329432182499580
+    second: Nintendo Switch - Octopath Traveler - Gaston_155
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 320
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f995cd8a6d30ed0800000000000000
+      internalID: -2448877751619707078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 320
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7e0e0229ce98e10800000000000000
+      internalID: 2200550005308188635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 320
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0817b16f6f9e3ea0800000000000000
+      internalID: -5891095961824454643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 320
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae1757362c8ebb60800000000000000
+      internalID: 7763796903398416032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 329
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6670b8c2b21d6b0800000000000000
+      internalID: -5273386218363066719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 329
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef4e98c38285ab40800000000000000
+      internalID: 5450906426519998439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_6
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 329
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bb7fc167c679ba0800000000000000
+      internalID: -6082273517192627365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 329
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fb4f9a9580dfda0800000000000000
+      internalID: -5909557954843721922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_8
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 320
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b511ab2a09fc3f480800000000000000
+      internalID: -8866515021250031269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_9
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 322
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc49411d6f3eb3510800000000000000
+      internalID: 1530067147631662285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_10
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 318
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b0aaa428c46aa20800000000000000
+      internalID: 3073227918209059667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_11
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 324
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1bfa7fa829212d0800000000000000
+      internalID: -3309421650605264427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_12
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 325
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0695f7a1da2980340800000000000000
+      internalID: 4830271872526408032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_13
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 325
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ee1d88e3de5b060800000000000000
+      internalID: 6968736851264925186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_14
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 325
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2c9df2ced321370800000000000000
+      internalID: 8291757948566881000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_15
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 324
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d7a5c15b2ff1410800000000000000
+      internalID: 1450144464715283772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 282
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ef0475a475b87a0800000000000000
+      internalID: -6373904870809731510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 280
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297786e0c20462fe0800000000000000
+      internalID: -1214212491565303918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 282
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a98ca2808cd4d0f0800000000000000
+      internalID: -1093006365037917791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 278
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf9275fa827c88a0800000000000000
+      internalID: -6301535837449183316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 284
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50658cb34a4b4d820800000000000000
+      internalID: 2942175074050397701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_21
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 285
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08d251f925200c00800000000000000
+      internalID: 864731990527760397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 285
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e768bc7239be3440800000000000000
+      internalID: 4917571469627123684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_23
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 285
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06b2dd9ea22eb9d0800000000000000
+      internalID: -2756727788536678898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_24
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 284
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36aa460cf03e4b50800000000000000
+      internalID: 6579249964630320700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_25
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 282
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3948aae0acdc32f90800000000000000
+      internalID: -6979508729780992877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_26
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 281
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee45e5a857352f4d0800000000000000
+      internalID: -3102325429007133458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_27
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 282
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dcc20ceccbe1b00800000000000000
+      internalID: 801285379891973521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_28
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 282
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824b671dad18f5460800000000000000
+      internalID: 7232642303397377064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_29
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 281
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9468ed9b6fd5d0760800000000000000
+      internalID: 7425694674865522249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_30
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 281
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379c2a93c653af240800000000000000
+      internalID: 4826228689620617587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 242
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2213ce289e4f26780800000000000000
+      internalID: -8691115047110561502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 242
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c549c3208c46c9ce0800000000000000
+      internalID: -1397130974197935012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 241
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45134ee8e7b4e92d0800000000000000
+      internalID: -3270093272489119404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_34
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 240
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2126ada6c700d0eb0800000000000000
+      internalID: -4752141497437363694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_35
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 241
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d7d591b5ce844c0800000000000000
+      internalID: -4302929567940772460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_36
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 242
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70c49a0c40d03320800000000000000
+      internalID: 2535755615223201916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_37
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 242
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88edfbbfce53c93e0800000000000000
+      internalID: -2045700838780838264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_38
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 242
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584c5597c326866a0800000000000000
+      internalID: -6455802053962382203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_39
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 242
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4635b54291b28ab20800000000000000
+      internalID: 3145811726702433124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_40
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 240
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a5fabe9c977b1c0800000000000000
+      internalID: -4487984595501884893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_41
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 241
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b28c2cd14eab6510800000000000000
+      internalID: 1543518895194538681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_42
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 242
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da383c3d9da8c2e0800000000000000
+      internalID: -2105241934963918120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_43
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 242
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62e0a76f18406c40800000000000000
+      internalID: 5503478044366529131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_44
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 242
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55034e6babfefce20800000000000000
+      internalID: 3373178231135154261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_45
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 242
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1723789b67240bc70800000000000000
+      internalID: 8984754334290358897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_46
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 242
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6945bc2476039b560800000000000000
+      internalID: 7329943088582579350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_47
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 244
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec892295b35842d60800000000000000
+      internalID: 7864557339240732878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_48
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 244
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade8c040b0257a190800000000000000
+      internalID: -7951296409833271590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_49
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 245
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e57f3bf804a6650800000000000000
+      internalID: 6226860420736966178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_50
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 245
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0733aad45525850800000000000000
+      internalID: 6364243015484272845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_51
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 207
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe8fdfbcc19549f0800000000000000
+      internalID: -484821076294005061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_52
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 206
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d7b7ba901737050800000000000000
+      internalID: 5797101431701601566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_53
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 204
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bf7fbb978f0b650800000000000000
+      internalID: 6246765884891200391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_54
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 204
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac469f6c5989a5a20800000000000000
+      internalID: 3051919466552714442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_55
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 206
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c7ab4cc46eb5f50800000000000000
+      internalID: 6871338873876282501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_56
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 206
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b11ba81a23f33a70800000000000000
+      internalID: 8805649058567492016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_57
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 207
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763ae28d113810710800000000000000
+      internalID: 1657750250513671015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_58
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 207
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57938443043aaa4a0800000000000000
+      internalID: -6581268409298175627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_59
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 207
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a40d67fb0b2b810800000000000000
+      internalID: 1779679139143371407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_60
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 206
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4326407f3b0c46a50800000000000000
+      internalID: 6513542840260518452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_61
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 204
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53bc00a6efdefca0800000000000000
+      internalID: -5981097073480780961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_62
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 206
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b6e007e1717f590800000000000000
+      internalID: -7640612823314306155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_63
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 206
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9fca44f76aed3c0800000000000000
+      internalID: -4332842725940594208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_64
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 203
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8839da72cd727e4f0800000000000000
+      internalID: -799626582322998392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_65
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 203
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744393bff6756e910800000000000000
+      internalID: 1866275234059465799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_66
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 203
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41e4f50c8a175360800000000000000
+      internalID: 7158219321426370895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_67
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 203
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c4f84d397c3b060800000000000000
+      internalID: 6968132486212570248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_68
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 203
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f11ad251a4d56210800000000000000
+      internalID: 1325699454675325433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_69
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 203
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f7320abd68c7950800000000000000
+      internalID: 6448177044330348299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_70
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 202
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8555373275b76580800000000000000
+      internalID: -8833892641906797173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_71
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 164
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fe515f0107a72f0800000000000000
+      internalID: -974343151238648042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_72
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 164
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec25b99c904a82390800000000000000
+      internalID: -7842838389121658162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_73
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 164
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9efd211bbfa28a0800000000000000
+      internalID: -6328969588371363330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_74
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 164
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d220213e70fc5b490800000000000000
+      internalID: -7731045552530259411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_75
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 164
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccfe4fa367dc73c0800000000000000
+      internalID: -4360373516058559295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_76
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 164
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6cec71f6869ada0800000000000000
+      internalID: -5933096207733831968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_77
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 164
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3068bbade66a6b7c0800000000000000
+      internalID: -4055871419354216957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_78
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 164
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2d167dfd4e1fda0800000000000000
+      internalID: -5912693185718398240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_79
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 164
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef8466a23703d540800000000000000
+      internalID: 5031373122824343524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_80
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 164
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f49beeaf5ffc75a0800000000000000
+      internalID: -6522057373917670151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_81
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 164
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa66f40eb7503af0800000000000000
+      internalID: -418738291706795274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_82
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 165
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aed9b38384c49a30800000000000000
+      internalID: 4221214819882753699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_83
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 165
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd61268ecac75e9b0800000000000000
+      internalID: -5051494324951181604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_84
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 165
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac97ca8859752b010800000000000000
+      internalID: 1203120350216092106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_85
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 165
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dee33a08544c88f0800000000000000
+      internalID: -536979110644945194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_86
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 164
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d859928041e78b0800000000000000
+      internalID: -5152658898375308010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_87
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 164
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99e60dc0e45ae710800000000000000
+      internalID: 1723283131911825820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_88
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 164
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720562e3b69653b50800000000000000
+      internalID: 6572275140542222375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_89
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 164
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b88ffb05844b6ee0800000000000000
+      internalID: -1266843531952027466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_90
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 164
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6da9789ca0d8b80800000000000000
+      internalID: -8391038670041590109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_91
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 164
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3111497b2cdff4a0800000000000000
+      internalID: -6557280453152140995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_92
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 146
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ded440df65e7010800000000000000
+      internalID: 1188482996371320199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_93
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 146
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee65018937bd0d90800000000000000
+      internalID: -7129841177451991323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_94
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 126
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ecc48968945eeb0800000000000000
+      internalID: -4691262594406887848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_95
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 126
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9baa1b545e30510800000000000000
+      internalID: 1514305987222878700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_96
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 121
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22da165c2764576b0800000000000000
+      internalID: -5299251927779791582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_97
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 121
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dd8e941c5614070800000000000000
+      internalID: 8088858286577212795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_98
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 126
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ce7d17e2ec65d00800000000000000
+      internalID: 961182269363973180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_99
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 128
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fc3a481bbe006e0800000000000000
+      internalID: -1873238297319059702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_100
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 122
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53dba51bfbd6c610800000000000000
+      internalID: 1641240985669981023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_101
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 121
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2dc5202ec6b60e0800000000000000
+      internalID: -2275605468747607297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_102
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 121
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ca4e63ee961f660800000000000000
+      internalID: 7417826533100006538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_103
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 126
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc31fcc9df176150800000000000000
+      internalID: 5865692059980086456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_104
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 128
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026dde8deb4755970800000000000000
+      internalID: 8743022614641759776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_105
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 122
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3df9faefc9206f20800000000000000
+      internalID: 3413774490524056894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_106
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 78
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5002de99f4e2b210800000000000000
+      internalID: 1347390999299752030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_107
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 78
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3143841478df8230800000000000000
+      internalID: 3643368616637972795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_108
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 85
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887f2565aa7a6ff70800000000000000
+      internalID: 9220741637122226056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_109
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 83
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2e04e10c8bcf050800000000000000
+      internalID: 5835742352446120702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_110
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 82
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10b266f86765caf0800000000000000
+      internalID: -376781293307645924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_111
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 85
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62096c83a7b96c1f0800000000000000
+      internalID: -1024960915939356634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_112
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 83
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e221211245f3db0800000000000000
+      internalID: -4810033375994565076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_113
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 82
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d01f93dea887e50800000000000000
+      internalID: 6807343588254485872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_114
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 85
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7f7daa5bfcdf280800000000000000
+      internalID: -9007815300508813362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_115
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 84
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162626d4bb3786a00800000000000000
+      internalID: 749976586251559521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_116
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 83
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a8461c347cfcb10800000000000000
+      internalID: 2004039453024487958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_117
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 85
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc87c6eecbf1f2c50800000000000000
+      internalID: 6642562871709169869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_118
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 84
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e660408f2168b3640800000000000000
+      internalID: 5060786022309430894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_119
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 83
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d47791b48f62400800000000000000
+      internalID: 299199426700201286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_120
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 84
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da05e1a0c259a02d0800000000000000
+      internalID: -3311670559596719955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_121
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 83
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b822ea19304e140800000000000000
+      internalID: 4747923831381986089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_122
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 82
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4515638f8067bb230800000000000000
+      internalID: 3655645303437414740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_123
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 85
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400d9b5617d255ee0800000000000000
+      internalID: -1273061354601066492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_124
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 84
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ee0bf6123ca96a0800000000000000
+      internalID: -6441621768624869837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_125
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 83
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46e1a61c62c90f90800000000000000
+      internalID: -6986839577396648369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_126
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 41
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a53f42b52cb099f0800000000000000
+      internalID: -463663891527813728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_127
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 40
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd97faedd15a09c0800000000000000
+      internalID: -3960262908747211339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_128
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 39
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fecc2c3bdfb48d0800000000000000
+      internalID: -2860914189754634494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_129
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 42
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622d45df22b9830d0800000000000000
+      internalID: -3442831340543356378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_130
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 41
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b0f52ce2f26e6f0800000000000000
+      internalID: -655784817859818647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_131
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 40
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f20358d75876960800000000000000
+      internalID: 7595186070735564666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_132
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 40
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72248c907c333a60800000000000000
+      internalID: 7652526646192513662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_133
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 40
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5da1f1617007530800000000000000
+      internalID: 3850585472994301400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_134
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 40
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8656a0b1374909020800000000000000
+      internalID: 2346538627955844456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_135
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 40
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbb549eeafb3e5f0800000000000000
+      internalID: -728527956745012288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_136
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 40
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185aaa6414b435bc0800000000000000
+      internalID: -3795607317212650111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_137
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 40
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3350a757c61a060800000000000000
+      internalID: 6962965750705632225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_138
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 40
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8882a28beddedc890800000000000000
+      internalID: -7436025868890527608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_139
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 40
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d553f3300a457800800000000000000
+      internalID: 609474689310610901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_140
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 40
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf083a65294513f0800000000000000
+      internalID: -930757322937462849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_141
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 40
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bece2cb9e6e745560800000000000000
+      internalID: 7301599909399162091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_142
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 40
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac267478647da230800000000000000
+      internalID: 3651702864846662823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_143
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 40
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c9e9d3ab1fbfe90800000000000000
+      internalID: -6990728214362547152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_144
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 41
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b607aa4bc1b74cb0800000000000000
+      internalID: -4879736184543705419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_145
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 40
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e390bd9d0bc6673d0800000000000000
+      internalID: -3209258177629845186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_146
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 40
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e62721c2a8ba47f0800000000000000
+      internalID: -627486188899981592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_147
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 41
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9dc60bcb50bef30800000000000000
+      internalID: 4605781351888378316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_148
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e4264dcc16d12b0800000000000000
+      internalID: -5612222028269334940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_149
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c62061d321336500800000000000000
+      internalID: 388208022790350536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_150
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75abfa52d3572e740800000000000000
+      internalID: 5179831426915220055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_151
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754bf95b93ff4ae90800000000000000
+      internalID: -7015201696211028905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_152
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d643e5ab504a740800000000000000
+      internalID: 5162257370875981128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_153
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0923dc444b3723ac0800000000000000
+      internalID: -3876909111126969712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_154
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af63a227247f20150800000000000000
+      internalID: 5837499931780855546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Gaston_155
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf82870a41610ca40800000000000000
+      internalID: 5386329432182499580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
